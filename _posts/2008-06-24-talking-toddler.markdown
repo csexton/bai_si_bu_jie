@@ -1,0 +1,6 @@
+---
+title: Talking Toddler
+tags: leah
+layout: post
+---
+Leah's talking has really taken off in the bast few weeks.  She is finally coming up with some phrases all on her own. I think "Ouch Leah" might be one of my favorite.  "Spicy-JUICE!!!" is another.<br /><br />Which reminds me, Leah has decided she likes hot wings.  So much that she ate over half of mine. I had to debone and skin them, so I was a little slower in the eating part, but she was going to town.  After a few big bites she would cough a little and fumble around for her juice.  At least my two year old has good taste.

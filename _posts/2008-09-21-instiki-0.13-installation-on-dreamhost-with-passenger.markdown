@@ -1,0 +1,6 @@
+---
+title: Instiki 0.13 Installation on Dreamhost with Passenger
+tags: tech
+layout: post
+---
+Running Instiki on Dreamhost has gotten much easier since they have added Passenger (mod_rails).<br /><br />Create a new fully hosted domain on dreamhost. Something like wiki.domain.com.<br /><ul><li> Check the “Ruby on Rails Passenger (mod_rails)” box.</li><br /><li>In the Specify your web directory enter “wiki.yourdomain.com/instiki/public”</li></ul><br /><br />This will create the wiki.domain.com folder in the user’s home directory. Login to your shell account and do the following:<br /><br /><pre><br />cd wiki. yourdomain.com<br />svn checkout svn://rubyforge.org/var/svn/instiki/instiki/trunk/ instiki<br />cd instiki<br />rake db:migrate RAILS_ENV=production<br />Open wiki. yourdomain.com in your browser and set up the wiki.<br /></pre><br /><br /><a href="http://www.wiki.fuzzymonk.com/wiki/published/HomePage">Chuckle</a>

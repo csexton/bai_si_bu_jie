@@ -1,0 +1,729 @@
+---
+title: Twitter
+tags: twitter
+layout: post
+---
+
+    <div xmlns='http://www.w3.org/1999/xhtml'>
+  
+<table class='twitter'>
+<tbody class='twitter'>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @fuzzymonk I'm not sure @beejpowers and I should combine our luck!
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/14/2009 at 01:30PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Hoping that today goes a little better for the little girl and thru the transitive property for me too
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/14/2009 at 01:23PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Actually going home now
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/14/2009 at 12:28AM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @fuzzymonk but now I can be your hero for once
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/13/2009 at 11:17PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Oops! Looks like I was theoretically supposed to be in Richmond today, but it was just for a 1 hour meeting so I'm hoping it's ok.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/13/2009 at 06:54PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            "I like Jeepses (Jeeps)!" - Leah
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/13/2009 at 01:37PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Annoyed at HR, they think I might still be on leave and therefore didn't pay me today
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/15/2009 at 11:13PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-amperecat'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/amperecat'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/63936091/IMG_6161_normal.JPG' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='amperecat' class='twitter-user' href='http://twitter.com/amperecat'>
+            amperecat
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Coz Worthington is mah hero.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/18/2009 at 10:37PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            That was Leah. She stole mah phone.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/18/2009 at 07:47PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Xydedjmv
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/18/2009 at 07:37PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            yay for games night!!
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/18/2009 at 12:48AM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Just wasted 3 hours of babysitter time. Grr.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 08:43PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Going by the crowd at the mall, it must be Christmas eve.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 08:04PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @deanosan twenty eight point eight K B-P-S modem! I love that movie.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 07:10PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @scott_yoder needs a twitter profile pic! Who's with me?
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 07:07PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            They took my fingerprint in order to open a self storage unit. Wha?
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 07:05PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @KeeperT0M got to spend the night awake.  I bet @crazyjulio and him can relate. Babies.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 04:26PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Lars just had his first game of chest. The unsuspecting victim: Dad
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 03:37PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            I am starting to think @KeeperT0M has been replaced by a shell script that updates twitter.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 03:08PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @itsgumby what family vacation is complete without urine?
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 02:06AM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-amperecat'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/amperecat'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/63936091/IMG_6161_normal.JPG' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='amperecat' class='twitter-user' href='http://twitter.com/amperecat'>
+            amperecat
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            WAHHHH!!! Something was scary on the stairs.  I shall continue to run really fast for a while.  WAAAU!
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/17/2009 at 12:49AM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Lars tried to defecate on me.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/19/2009 at 11:58PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-amperecat'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/amperecat'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/63936091/IMG_6161_normal.JPG' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='amperecat' class='twitter-user' href='http://twitter.com/amperecat'>
+            amperecat
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Bob the builder for adults!  Yay!
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/19/2009 at 05:10PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Painter never showed. Handyman won't answer the phone. Not making it easy for me.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/19/2009 at 04:58PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @shawnburns who is deploding today?
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/19/2009 at 03:49PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @doktahahpah hot wings FTW!
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/16/2009 at 09:13PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            "Payroll will call you back on Tuesday to resolve this." - My oh so helpful HR Department. Bets that this happens again?
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/16/2009 at 06:20PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            @beejpowers appearantly, but I've been told we can't do everything
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/16/2009 at 04:57PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Rebooting for the second time today, sigh.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/16/2009 at 04:56PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-kmsexton'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/kmsexton'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/57248104/Picture_3_normal.png' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='kmsexton' class='twitter-user' href='http://twitter.com/kmsexton'>
+            kmsexton
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            finally figuring out facebook and trying to keep up. Apologies to all the folks who thought I was ignoring your comments - I was jsut dumb.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/16/2009 at 03:00PM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  <tr class='twitter-status u-fuzzymonk'>
+      <td class=''>
+        <a class='url' href='http://twitter.com/fuzzymonk'>
+          <img width='48' src='http://s3.amazonaws.com/twitter_production/profile_images/30300852/TaylorandMcLauren-jabber_normal.jpg' height='48' class='twitter-avatar' alt='Tom Dougherty'/>
+        </a>
+      </td>
+      <td class='twitter-body'>
+        <div>
+          <strong>
+          <a title='fuzzymonk' class='twitter-user' href='http://twitter.com/fuzzymonk'>
+            fuzzymonk
+          </a>
+          </strong> 
+          <span class='twitter-text'>
+            Hungry, and we are out of doughnut tacos.
+          </span> 
+          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+            01/16/2009 at 04:13AM
+          </span> 
+        </div>
+      </td>
+    </tr>
+  
+  </tbody>
+
+</table>
+    </div>
+  

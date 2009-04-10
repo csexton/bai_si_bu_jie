@@ -1,0 +1,6 @@
+---
+title: Leah is to awesome as Kelly is to _______.
+tags: 
+layout: post
+---
+I have been making collages and other framed pictures of Leah, when I started she Kelly was feeding her.  Then we moved her to the pack-n-play, Kelly went up stairs for some way overdue sleep and I continued printing-n-framing.  Eventually Leah decided she didn't like begin alone and decided I should hold her.  <br /><br />I gave her a little bit of a bottle, but since then she as been zonked out on my lap.  I just finished putting together my pictures, Kelly is still upstairs sleeping, and I am a happy man.<br /><br />Kelly had a latter half of a day yesterday, and the night to match.  She had a fever, and all the muscle soreness that goes along with it.  When I overheard her telling leah that this is a bad as after surgery I decided I really don't like it.  Hopefully I can trick her into sleeping for multiple hours, because if she was left to it on her own she would concentrate on Leah and ignoring all of her discomfort.  <br /><br />She is amazing, doesn't get frustrated or tired nearly as fast as I do.  Of course there are limits, but those don't appear until complete exhaustion has set in.  <br /><br />Correct answer: Amazing.

@@ -1,0 +1,6 @@
+---
+title: Best trip to the grocery store ever
+tags: 
+layout: post
+---
+We had been at Sarah and Cheryl's little back to school BBQ and decided to head back to our place to chill in a little more intimate environment.  So we stopped off at Giant to pick up a few refreshments.  WE gathered our froofy drinks and snacks and took them up to the checkout.  Register 7, in fact.  As we were unloading our cart we heard this booming "Oh my God, it's Chris Sexton."  It was the cashier.  I looked at him, assuming he was someone from the School that I didn’t immediately recognize.  No, couldn’t place him.  Nothing.  He mumbled something about wushu and finished checking out the guy in front of us.  Andrew, according to his name tag, said he studies Taiji and that his sifu knows our coach.  Told me congratulations for making the team.  He asked for an autograph and told me how excited he was.  I must say I thought it was awkward and strange to have someone want me to wrote my name down.  He says that I made his night, but...nay, Andrew, nay—you have made mine.<br /><br />Kelly and Neal were equally impressed at my first sighting.  As a result we sent Stephon there and told him he had to buy a pack of gum at register 7.  How great is that?

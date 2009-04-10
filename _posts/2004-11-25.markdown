@@ -1,0 +1,6 @@
+---
+title: 
+tags: 
+layout: post
+---
+<i>Do you know what type of computer programs you need to create a video game?</i><br /><br />If you have to ask that question then you probably don’t want to know the answer.  Besides the matrix arithmetic and the linear algebra skillz you will want to to pick up one of them CS Degrees.<br />
