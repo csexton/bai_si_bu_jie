@@ -1,0 +1,15 @@
+---
+title: Oh, the things I need to document
+tags: 
+layout: post
+---
+
+If you follow me on twitter (and if you read this I would guess you do) you probably have notice that Leah has a <a href="http://twitter.com/miss_pants">twitter account</a>.  Well, if you see a post there in quotes it is something she actually said. While twitter does a great job as for displaying one liners it is awkward to post the more nuanced converstaions with her there. And I personally think some of those are the most in need of keeping around.
+
+For example, here is what was said a mere 2 min ago:
+
+<b>Chris</b> (to the cat): Yeah, she is going commando.
+
+<b>Leah</b>: MANDO!
+
+OK, maybe not the best example, but I still think it is really funny. Of course that could be a lack of sleep making me all punchy.
