@@ -7,10 +7,10 @@ layout: post
 Kelly took Leah to the grocery store to get us dinner and I jumped at the oppertunity. It was time to give that boy a haircut. I knew the risk I was taking, but I wasn't going to chance people starting to think his pretty curls meant he was a girl. So I busted out the clippers.
 
 <img src="http://www.fuzzymonk.com/photos/leah_and_lars/image/595/IMG_1012.JPG" class="photo" />
-<span style="font-weight:bold;">Before</span>
+Before
 
 <img src="http://www.fuzzymonk.com/photos/leah_and_lars/image/595/IMG_1024.JPG" class="photo" />
-<span style="font-weight:bold;">After</span>
+After
 
 Handsome and cute. Dad wins!
 

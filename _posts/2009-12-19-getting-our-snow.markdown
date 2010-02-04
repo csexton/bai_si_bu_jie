@@ -15,4 +15,4 @@ much happier.
 What are you doing to me, dad?
 
 <img src="http://fuzzymonk.com/photos/leah_and_lars/image/595/IMG_2953.JPG" class="picture" />
-Not something *I* want to clear off.
+Not something \*I\* want to clear off.

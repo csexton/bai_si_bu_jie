@@ -3,4 +3,16 @@ title: 350D vs. Ampere.
 tags: 
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/cats/image/595/IMG_1792-AmpereSleepingLighter.jpg" align="center" class="picture"><br /><br /><img src="http://fuzzymonk.com/photos/cats/image/595/IMG_1800-AmpereChillinLight_001.jpg" align="center" class="picture"><br /><br />Camera 1.<br />Ampere 0.<br />
+<img src="http://fuzzymonk.com/photos/cats/image/595/IMG_1792-AmpereSleepingLighter.jpg" align="center" class="picture">
+
+
+
+<img src="http://fuzzymonk.com/photos/cats/image/595/IMG_1800-AmpereChillinLight_001.jpg" align="center" class="picture">
+
+
+
+Camera 1.
+
+Ampere 0.
+
+

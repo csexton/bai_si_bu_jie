@@ -3,4 +3,28 @@ title: Lets see how bad the housing market really is.
 tags: family
 layout: post
 ---
-We have decided that we can't take our commute any more.  Kelly has the chance to listen to 2 kids scream for a commute that can take upwards of an hour we've decided that this is simply not good lifestyle.  And if she gets home and decides she wants some help -- she gives me a call and it might be more than an hour and a half for me to walk in the door.<br /><br />Yeah, not really working for me.<br /><br />So we are looking for a new place. We started looking near Dunn Lorring or one of the Falls Church Metro stops.  But I think we decided we really prefer West Fall Church/McLean.  The more I think about it, the better my wife's commute the happier I am gonna be. Weird how that works.<br /><br />We did find one house that was, well, ideal.  Unfortunately by the time we got to go see it it was already under contract. It was a bit on the pricy side (all the 'ideal' ones are), but totally worth it.  <br /><br />While we considered buying before selling, I think we've deiced don't like that idea, so have stepped up the 'getting the house ready' tasks.  The sad thing is now that we are replacing all the light fixtures, painting, building circuit breaker doors, installing range hoods -- well, it really makes the current place nice.  Man, all these little things add up.  Hopefully it will help when people come look at it.<br /><br />I know people do it all the time, but I don't know what we are going to do once it is listed and we get calls that someone wants to come see our place and we are waist deep in dirty diapers and kids toys.  You can't keep the house clean with a toddler AND a baby.  <br /><br />So, anyone want to buy a townhouse in Burke?  It's got new light fixtures!
+We have decided that we can't take our commute any more.  Kelly has the chance to listen to 2 kids scream for a commute that can take upwards of an hour we've decided that this is simply not good lifestyle.  And if she gets home and decides she wants some help -- she gives me a call and it might be more than an hour and a half for me to walk in the door.
+
+
+
+Yeah, not really working for me.
+
+
+
+So we are looking for a new place. We started looking near Dunn Lorring or one of the Falls Church Metro stops.  But I think we decided we really prefer West Fall Church/McLean.  The more I think about it, the better my wife's commute the happier I am gonna be. Weird how that works.
+
+
+
+We did find one house that was, well, ideal.  Unfortunately by the time we got to go see it it was already under contract. It was a bit on the pricy side (all the 'ideal' ones are), but totally worth it.  
+
+
+
+While we considered buying before selling, I think we've deiced don't like that idea, so have stepped up the 'getting the house ready' tasks.  The sad thing is now that we are replacing all the light fixtures, painting, building circuit breaker doors, installing range hoods -- well, it really makes the current place nice.  Man, all these little things add up.  Hopefully it will help when people come look at it.
+
+
+
+I know people do it all the time, but I don't know what we are going to do once it is listed and we get calls that someone wants to come see our place and we are waist deep in dirty diapers and kids toys.  You can't keep the house clean with a toddler AND a baby.  
+
+
+
+So, anyone want to buy a townhouse in Burke?  It's got new light fixtures!

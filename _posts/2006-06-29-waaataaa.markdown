@@ -3,4 +3,8 @@ title: Waaataaa!
 tags: 
 layout: post
 ---
-It's always a fun day at work when your co-workers discover your movies in the internet. Help prove that my current employer is <span style="font-style:italic;">chillax</span>.<br /><br />And, yes, I do have a smug look on my face.
+It's always a fun day at work when your co-workers discover your movies in the internet. Help prove that my current employer is chillax.
+
+
+
+And, yes, I do have a smug look on my face.

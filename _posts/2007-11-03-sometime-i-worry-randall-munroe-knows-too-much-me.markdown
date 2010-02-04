@@ -1,5 +1,5 @@
 ---
-title: Sometime I worry Randall Munroe knows *too* much me
+title: Sometime I worry Randall Munroe knows \*too\* much me
 tags: 
 layout: post
 ---

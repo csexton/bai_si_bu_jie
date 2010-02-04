@@ -8,8 +8,8 @@ If you follow me on twitter (and if you read this I would guess you do) you prob
 
 For example, here is what was said a mere 2 min ago:
 
-<b>Chris</b> (to the cat): Yeah, she is going commando.
+**Chris** (to the cat): Yeah, she is going commando.
 
-<b>Leah</b>: MANDO!
+**Leah**: MANDO!
 
 OK, maybe not the best example, but I still think it is really funny. Of course that could be a lack of sleep making me all punchy.

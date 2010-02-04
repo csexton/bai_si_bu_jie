@@ -3,4 +3,12 @@ title:
 tags: 
 layout: post
 ---
-Snow! Snowman! <br /><br /><br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/kellysnowman.jpg" />
+Snow! Snowman! 
+
+
+
+
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/kellysnowman.jpg" />

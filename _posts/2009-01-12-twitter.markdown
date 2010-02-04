@@ -22,12 +22,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Drat, @kmsexton choose bed.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/13/2009 at 03:13AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -45,12 +45,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             not sure if leah won or everybody lost but i'm going to bed. or to down a few shots. but probably bed.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/13/2009 at 02:29AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -68,12 +68,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @ADDandy you must have been slacking. =)
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/11/2009 at 10:52PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -91,12 +91,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @chadfowler at least the crowds here in DC have been upgraded too. Good luck during inauguration!
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/11/2009 at 10:49PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -114,12 +114,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Why are the trays on all DVD players so s-l-o-w to open?
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/11/2009 at 10:46PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -137,12 +137,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @fuzzymonk sorry 'bout that, we'll get the house toasty for you to relax in
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 11:22PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -160,12 +160,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Sorry bout that
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 11:05PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -183,12 +183,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Ran for the bus, not fast enough. Now my lungs are burning. Them smokers aint helping.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 10:53PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -206,12 +206,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @doktahahpah those are laser beams from the alien overlords.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 10:52PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -229,12 +229,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             I need-need this: http://tinyurl.com/73g2vd
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 03:38PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -252,12 +252,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Paniced and pulled our offer. We just weren't feeling the neighbohood. I am truly a suburbs kind of girl. Guess we'll just keep looking.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 02:57PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -275,12 +275,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @kmsexton and I are flighty.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 12:58PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -298,12 +298,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @shawnburns I read twitter!
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 03:08AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -321,12 +321,12 @@ layout: post
             amperecat
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @Quadpawd Henry is my brother's name!  Though he is stupid.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 02:49AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -344,12 +344,12 @@ layout: post
             amperecat
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Why are there no LOL dogs?
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 02:47AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -367,12 +367,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             just wrote an offer on a house!
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/12/2009 at 12:06AM
-          </span> 
+           
         </div>
       </td>
     </tr>

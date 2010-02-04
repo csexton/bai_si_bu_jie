@@ -3,4 +3,4 @@ title:
 tags: 
 layout: post
 ---
-Honestly <i>pleonasm</i> is ajust a superfluous word.
+Honestly _pleonasm_ is ajust a superfluous word.

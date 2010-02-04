@@ -8,7 +8,7 @@ We were awoken last night around 4 A.M. by a couple of cats who seemed to be goi
 
 I was wrong.
 
-I had gotten up to go get a towel<a href="#towel">*</a> to catch what ever critter it was and I hear Kelly shouting and came running into the bathroom.
+I had gotten up to go get a towel\* to catch what ever critter it was and I hear Kelly shouting and came running into the bathroom.
 
 It was a bat. 
 
@@ -37,8 +37,7 @@ If anyone talks to Kelly make sure to go with the latter.
 With that done, it was about 5 AM, and I then had to make the rounds to make sure there were no more bats, or racoons (don't ask) in the house. I also wanted to make sure the kids were not vampires yet.
 
 <img src="http://fuzzymonk.com/photos/blog/image/595/IMG_1110.JPG" class="photo" />
-<b>Roy mid flight</b>
+**Roy mid flight**
 
 
-<a name="towel" ></a>
-<blockquote>A towel is about the most massively useful thing an interstellar hitchhiker can have. You can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta…wet it for use in hand-to-hand combat…wrap it around your head to ward off noxious fumes…any man who can hitch the length and breadth of the Galaxy, rough it … win through, and still know where his towel is, is clearly a man to be reckoned with.</blockquote> --Hitchhiker's Guide to the Galaxy
+\* A towel is about the most massively useful thing an interstellar hitchhiker can have. You can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta…wet it for use in hand-to-hand combat…wrap it around your head to ward off noxious fumes…any man who can hitch the length and breadth of the Galaxy, rough it … win through, and still know where his towel is, is clearly a man to be reckoned with. --Hitchhiker's Guide to the Galaxy

@@ -3,4 +3,24 @@ title: Rocket Man
 tags: 
 layout: post
 ---
-What happens when you have 4 engineers gather for a tasty dinner? <br /><img src="http://fuzzymonk.com/photos/blog/image/595/IMG_5616.JPG" class="picture" /><br />Pyrotechnics on a micro level.<br /><br />I just spent the evening with a fully geeked out nerd fest, and it was a blast.<br /><br />Kelly, Danny, Chris and I built match stick rockets. <br /><br />Chris took the early lead with an impressive 12'10" flight, which he shortly topped with 13'4" jump.  Danny stuck with the more experimental designs, but his gamble didn't pay off, he had a mere 3 flights that got him off the table.  I was able to manage one or two extra-table launches, but was getting no where until Kelly said she would pledge her undying love to the winner and this was my last attempt.  Well, not willing to let the mother of my child go to another Chris, I wrapped the foil extra tight and had set the launch angle extra low.  No one beleived it.  19'1" and I get to keep my Wife's love.  Huzzah!<br /><br />Next up, Caps robots.
+What happens when you have 4 engineers gather for a tasty dinner? 
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_5616.JPG" class="picture" />
+
+Pyrotechnics on a micro level.
+
+
+
+I just spent the evening with a fully geeked out nerd fest, and it was a blast.
+
+
+
+Kelly, Danny, Chris and I built match stick rockets. 
+
+
+
+Chris took the early lead with an impressive 12'10" flight, which he shortly topped with 13'4" jump.  Danny stuck with the more experimental designs, but his gamble didn't pay off, he had a mere 3 flights that got him off the table.  I was able to manage one or two extra-table launches, but was getting no where until Kelly said she would pledge her undying love to the winner and this was my last attempt.  Well, not willing to let the mother of my child go to another Chris, I wrapped the foil extra tight and had set the launch angle extra low.  No one beleived it.  19'1" and I get to keep my Wife's love.  Huzzah!
+
+
+
+Next up, Caps robots.

@@ -3,4 +3,8 @@ title:
 tags: 
 layout: post
 ---
-Appraisal - Loan amount > 0.<br /><br />I am so happy now.  Plus I can almost do head rotations again.
+Appraisal - Loan amount > 0.
+
+
+
+I am so happy now.  Plus I can almost do head rotations again.

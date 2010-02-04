@@ -22,12 +22,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @jorge2150 it is like a twenty eight point eight kay bee pee ess up in here.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:28PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -45,12 +45,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Value on smart trip card is a power of two.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:17PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -68,12 +68,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @Teshler out the cat in the freezer. He won't remember you put him in, but will know you saved him. Purr.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:15PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -91,12 +91,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @beejpowers you got to lock them in a baby cage for sleepin' time.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:11PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -114,12 +114,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Yay for a 25 min wait for the bus. I shoulda drove.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:11PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -137,12 +137,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @mjeshler toes are overrated.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:06PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -160,12 +160,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @crazyjulio come up to DC! The network is great here!
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:05PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -183,12 +183,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @shawnburns it was weird.  Angst abounded. Concerns were voiced. A fight nearly broke out.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 11:05PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -206,12 +206,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Does not seem to be a good day at the swapper.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 08:18PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -229,12 +229,12 @@ layout: post
             amperecat
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             http://twitpic.com/167kb - Metalliacat.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/23/2009 at 03:58PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -252,12 +252,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             And there was much wailing and knashing of teeth.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/23/2009 at 02:30AM
-          </span> 
+           
         </div>
       </td>
     </tr>

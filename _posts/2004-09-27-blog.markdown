@@ -3,4 +3,8 @@ title:
 tags: 
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/blog/image/595/MayanSun.jpg" class="center"/><br /><br />"<i>You can't dry hump the sun.</i>" -Kelly
+<img src="http://fuzzymonk.com/photos/blog/image/595/MayanSun.jpg" class="center"/>
+
+
+
+"_You can't dry hump the sun._" -Kelly

@@ -3,4 +3,12 @@ title: CBT Error
 tags: tech
 layout: post
 ---
-I was trying to complete some of the mandentory online training required by my company and got the following error on their website:<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/CBT-Windows-Error.jpg" class="picture" /><br /><br />Best part is they support IE, Firefox under windows and Navigator under Linux.  Not really sure why Safari and Firefox on OS X wouldn't work for them.
+I was trying to complete some of the mandentory online training required by my company and got the following error on their website:
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/CBT-Windows-Error.jpg" class="picture" />
+
+
+
+Best part is they support IE, Firefox under windows and Navigator under Linux.  Not really sure why Safari and Firefox on OS X wouldn't work for them.

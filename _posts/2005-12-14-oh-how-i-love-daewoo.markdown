@@ -3,4 +3,26 @@ title: Oh, how I love daewoo
 tags: 
 layout: post
 ---
-Woke up feeling better, not great, but better.  I really think taking the Cipro early has saved me alot of pain.  I talked to some of the sanshou people at lunch and they all seemed to suffer more than I did.  Deep down, I know it was the people praying for me back home that whipped me back so quick.<br /><br />I struggled through breakfast, I wanted some of the French toast they were making but it was way undercooked so I just left it and opted for the toast and jam (no butter).  I really thought I should eat more, but that was as much as I could handle at the time so I went with that.  We grabbed our stuff and hopped the bus to the stadium.  During warm ups I was feeling weak, but it is a fighting set, so I had Stephon's energy to help push me.  We were 8th to go, and our event came up fast.  We walked out there and did our thing.  Apparently Sifu saw my first move and was nervous that I was too sick, because I had no power, flavor or snap to it at all.  But once we got going things were a little better.  I felt off, stephon said the same, but in the end were more on than off.  Fighting sets are tricky like that, so much depends on timing and distance, that speed and style aren't such a big factor.  End of the day we pulled a 9.35 out of nowhere.  Putting us in 6th.  I was just hoping for 9--I will take it. Not to bad for the inaugural US duilain.<br /><br />We went to lunch at the daewoo hotel, the 5 star we were supposed to stay at. The buffet was insane, you would pay $30, $40 for that back in the states.  It was like our own personal heaven in Hanoi.  I was so happy.  I was feeling better so I could eat, and the food was so good.  And best of all it was not the food at the sunny hotel.  Because I have learned to hate that food.  I don't think I want another glass of tang for a long, long time.  Watered down tang.  Ugh.  But, the daewoo, oh, the daewoo.  I know I used to associate that name with cheap cars, but never more, I will think scalloped potatoes, new England clam chowder and tempura shrimp from now on.  I didn't over eat, not even too much desert (just a little rum raisin ice cream), but I just sat there, being happy.  I felt clean for a little while.<br /><br />I know I was excited about this trip to China before we came here, more excited about it than worlds.  But at this point I am way more pumped about going home.  I wanna play with my cats, sleep in my bed, take a shower that stays hot the entire time.  Worlds was awesome, I think china will be fun, but going home....sweet....home.<br /><br />Most of all I want to see my wife.  Where is my wife? WIFE! C'MERE!!!<br /><br />(<a href="http://fuzzymonk.com/photos/wushu/">pics</a>, more to come)<br />
+Woke up feeling better, not great, but better.  I really think taking the Cipro early has saved me alot of pain.  I talked to some of the sanshou people at lunch and they all seemed to suffer more than I did.  Deep down, I know it was the people praying for me back home that whipped me back so quick.
+
+
+
+I struggled through breakfast, I wanted some of the French toast they were making but it was way undercooked so I just left it and opted for the toast and jam (no butter).  I really thought I should eat more, but that was as much as I could handle at the time so I went with that.  We grabbed our stuff and hopped the bus to the stadium.  During warm ups I was feeling weak, but it is a fighting set, so I had Stephon's energy to help push me.  We were 8th to go, and our event came up fast.  We walked out there and did our thing.  Apparently Sifu saw my first move and was nervous that I was too sick, because I had no power, flavor or snap to it at all.  But once we got going things were a little better.  I felt off, stephon said the same, but in the end were more on than off.  Fighting sets are tricky like that, so much depends on timing and distance, that speed and style aren't such a big factor.  End of the day we pulled a 9.35 out of nowhere.  Putting us in 6th.  I was just hoping for 9--I will take it. Not to bad for the inaugural US duilain.
+
+
+
+We went to lunch at the daewoo hotel, the 5 star we were supposed to stay at. The buffet was insane, you would pay $30, $40 for that back in the states.  It was like our own personal heaven in Hanoi.  I was so happy.  I was feeling better so I could eat, and the food was so good.  And best of all it was not the food at the sunny hotel.  Because I have learned to hate that food.  I don't think I want another glass of tang for a long, long time.  Watered down tang.  Ugh.  But, the daewoo, oh, the daewoo.  I know I used to associate that name with cheap cars, but never more, I will think scalloped potatoes, new England clam chowder and tempura shrimp from now on.  I didn't over eat, not even too much desert (just a little rum raisin ice cream), but I just sat there, being happy.  I felt clean for a little while.
+
+
+
+I know I was excited about this trip to China before we came here, more excited about it than worlds.  But at this point I am way more pumped about going home.  I wanna play with my cats, sleep in my bed, take a shower that stays hot the entire time.  Worlds was awesome, I think china will be fun, but going home....sweet....home.
+
+
+
+Most of all I want to see my wife.  Where is my wife? WIFE! C'MERE!!!
+
+
+
+(<a href="http://fuzzymonk.com/photos/wushu/">pics</a>, more to come)
+
+

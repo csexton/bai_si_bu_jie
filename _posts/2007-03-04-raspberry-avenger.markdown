@@ -3,4 +3,40 @@ title: Raspberry Avenger
 tags: leah
 layout: post
 ---
-I know it has been way too long since my last post, but I will make up for it with some leah pictures.<br /><br />Since I last posted we have been to Texas to visit great grandparents and have started standing on our own.  Crawling faster and getting into stuff like crazy.  Whew.<br /><br /><br /><img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9645.JPG" /><br />Catching Snowflakes<br /><img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9402.JPG" /><br />Reading Books<br /><img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9375.JPG" /><br />Breaking out of the baby cage<br /><img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9215.JPG" /><br />Breakin' stuff<br /><img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9592.JPG" /><br />Playing with Unky Neal and a Penguin<br /><img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9737.JPG" /><br />Great Grandpa Jim has something on his face.<br /><img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9851.JPG" /><br />Aunt Claudia and the baby with one sock
+I know it has been way too long since my last post, but I will make up for it with some leah pictures.
+
+
+
+Since I last posted we have been to Texas to visit great grandparents and have started standing on our own.  Crawling faster and getting into stuff like crazy.  Whew.
+
+
+
+
+
+<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9645.JPG" />
+
+Catching Snowflakes
+
+<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9402.JPG" />
+
+Reading Books
+
+<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9375.JPG" />
+
+Breaking out of the baby cage
+
+<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9215.JPG" />
+
+Breakin' stuff
+
+<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9592.JPG" />
+
+Playing with Unky Neal and a Penguin
+
+<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9737.JPG" />
+
+Great Grandpa Jim has something on his face.
+
+<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9851.JPG" />
+
+Aunt Claudia and the baby with one sock

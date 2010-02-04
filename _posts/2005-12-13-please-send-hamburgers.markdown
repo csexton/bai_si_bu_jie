@@ -3,4 +3,36 @@ title: Please send hamburgers
 tags: 
 layout: post
 ---
-Because the food here scares me.<br /><br />I am one of four US Team members that has no had food poisoning. I spent the night and this morning with everything flying out both ends.  Nothing quite like being awoken with this urgent need to flush your bowels only to be interrupted mid flush with the immediate desire to empty out the top half of the GI tract.<br /><br />Apparently the three sanshou athletes have it much worse than I do, or at least did.  Some of them tried to push through it at first, only to have things get worse.  I had Cipro with me so that morning after talking to the team doctor this morning.  The one sanshou girl, Sarah, came down with it the same time as I did, and was apparently hurting pretty bad, so I gave her one of my antibiotics to get her started before the doctor was able to get them some from the hospital. <br /><br />I wasn't going to compete, I was hurting, and unable to keep food down.  We wound up talking to sifu, and to coach and they both said I should.  During the ridiculously long cab ride over to the stadium later during warm ups I was not happy.  I was more concerned with my exit strategy should I get sick mid form than actually doing my routine.  Luckily I was 8th, so I didn't have to wait too long to get it over with, and that is exactly what I wanted to do the entire time -- get it over with. <br /><br />I hopped on my jump outside -- something I never do -- and bent my legs pretty bad during my aerial.  I just had no legs at all during the form, but was still able to squeak out a 8.96, so I am really happy.  Had I hit my jump outside I would have broken 9 again. I think that placed me in the top 20, unless I got bumped out at the last minute.<br /><br />This phil dang saga continues to unfold, he decided that he was going to try to compete in sword even though the IWuF said he couldn't get added<!--, so he tried to go straight to the vietnamese registry helpers and get his name on the list.  I was a bit surprised that he decided to go behind coach's back, but it looks like he got a proper talking to because of it-->.  I feel really bad if it is a clerical error that caused him to be unable to compete in sword, but I thought that was a bit of a push for him. I guess everyone is so programed to hate the USAWKF that they will do anything they can to take a shot at it.  I must say I am not to thrilled that I got stuck at the 3-star.  No one at the 5-star has gotten sick so far.<br /><br />I am just annoyed that we had to go and mar the team with politics this year.  I understand that it wasn't like this at all 2 years ago.  But they also had worlds jackets and a decent organizing committee there.  The Vietnam is lacking.  Heck, Vietnam is a bit lacking for me right now.  Well, maybe not the entire country -- but I don't much care for this Hanoi place.<br /><br />Despite my state of unpleasantness this evening I was able to talk to some of the other countries some more.  I even gave up a pin to the Netherlands with out getting one.  Signed Germany's jacket -- right on the collar where everyone can see my name nice and big.  Aside from the sickness this is a pretty damn cool thing to be apart of. <br /><br />Need to rest, I have duilan tomorrow.  While I don't expect to be 100% by then, I figure the more rest I can get the closer I will be.
+Because the food here scares me.
+
+
+
+I am one of four US Team members that has no had food poisoning. I spent the night and this morning with everything flying out both ends.  Nothing quite like being awoken with this urgent need to flush your bowels only to be interrupted mid flush with the immediate desire to empty out the top half of the GI tract.
+
+
+
+Apparently the three sanshou athletes have it much worse than I do, or at least did.  Some of them tried to push through it at first, only to have things get worse.  I had Cipro with me so that morning after talking to the team doctor this morning.  The one sanshou girl, Sarah, came down with it the same time as I did, and was apparently hurting pretty bad, so I gave her one of my antibiotics to get her started before the doctor was able to get them some from the hospital. 
+
+
+
+I wasn't going to compete, I was hurting, and unable to keep food down.  We wound up talking to sifu, and to coach and they both said I should.  During the ridiculously long cab ride over to the stadium later during warm ups I was not happy.  I was more concerned with my exit strategy should I get sick mid form than actually doing my routine.  Luckily I was 8th, so I didn't have to wait too long to get it over with, and that is exactly what I wanted to do the entire time -- get it over with. 
+
+
+
+I hopped on my jump outside -- something I never do -- and bent my legs pretty bad during my aerial.  I just had no legs at all during the form, but was still able to squeak out a 8.96, so I am really happy.  Had I hit my jump outside I would have broken 9 again. I think that placed me in the top 20, unless I got bumped out at the last minute.
+
+
+
+This phil dang saga continues to unfold, he decided that he was going to try to compete in sword even though the IWuF said he couldn't get added<!--, so he tried to go straight to the vietnamese registry helpers and get his name on the list.  I was a bit surprised that he decided to go behind coach's back, but it looks like he got a proper talking to because of it-->.  I feel really bad if it is a clerical error that caused him to be unable to compete in sword, but I thought that was a bit of a push for him. I guess everyone is so programed to hate the USAWKF that they will do anything they can to take a shot at it.  I must say I am not to thrilled that I got stuck at the 3-star.  No one at the 5-star has gotten sick so far.
+
+
+
+I am just annoyed that we had to go and mar the team with politics this year.  I understand that it wasn't like this at all 2 years ago.  But they also had worlds jackets and a decent organizing committee there.  The Vietnam is lacking.  Heck, Vietnam is a bit lacking for me right now.  Well, maybe not the entire country -- but I don't much care for this Hanoi place.
+
+
+
+Despite my state of unpleasantness this evening I was able to talk to some of the other countries some more.  I even gave up a pin to the Netherlands with out getting one.  Signed Germany's jacket -- right on the collar where everyone can see my name nice and big.  Aside from the sickness this is a pretty damn cool thing to be apart of. 
+
+
+
+Need to rest, I have duilan tomorrow.  While I don't expect to be 100% by then, I figure the more rest I can get the closer I will be.

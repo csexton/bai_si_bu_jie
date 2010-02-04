@@ -3,4 +3,64 @@ title: Office Chair Fun
 tags: 
 layout: post
 ---
-Two days later, we are back at it:<br /><img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair08.jpg" /><br />This time Ben joined in the fun<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair02.jpg" /><br />Only with his freakish little waist he holds the record for fastest time<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Chris_Chair09.jpg" /><br />I went for the 2-in-a-row<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair15.jpg" /><br />Tom went back for a better run<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair16.jpg" /><br />New challenge is backwords and upside down<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair12.jpg" /><br />Rules: Can't touch anything other than the chair and the floor<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair04.jpg" /><br />Starts off awkward<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair11.jpg" /><br />Then it get way more awkward<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Chris_Chair05.jpg" /><br />There's a reason we take off our belts<br /><br /><img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair17.jpg" /><br />What office game could be more professional?<br />
+Two days later, we are back at it:
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair08.jpg" />
+
+This time Ben joined in the fun
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair02.jpg" />
+
+Only with his freakish little waist he holds the record for fastest time
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Chris_Chair09.jpg" />
+
+I went for the 2-in-a-row
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair15.jpg" />
+
+Tom went back for a better run
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair16.jpg" />
+
+New challenge is backwords and upside down
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair12.jpg" />
+
+Rules: Can't touch anything other than the chair and the floor
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair04.jpg" />
+
+Starts off awkward
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Ben_Chair11.jpg" />
+
+Then it get way more awkward
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Chris_Chair05.jpg" />
+
+There's a reason we take off our belts
+
+
+
+<img src="http://fuzzymonk.com/photos/blog/image/595/Tom_Chair17.jpg" />
+
+What office game could be more professional?
+
+

@@ -3,4 +3,74 @@ title: Super fun games
 tags: 
 layout: post
 ---
-Some time during the superbowl tom pointed out that I haven't made a movie since I started work at AMS.  Now this is a fact that I am well aware of, but this really made me think.  I really want to make another short, but I have to seriously decide what my priorities are and put my time and effort into them.  With the sad fact that I must earn a paycheck I know there is no way I can do everything I want.  Heck, with the way my job has been going I want to go do the work to earn a paycheck.  I really like my job, but it doesn't count on my list of activities and projects that I need to prioritize since it trumps those things with the gettin' paid part.  <br /><br />The main reason I haven't done any goofy film making is wushu.  I consider wushu a better investment of time than making a movie, so if I need to make the choice between the two then I needed to err on the side of training.  But with recent accomplishments I don't think I am going to be stepping up training.  Pan Am's are this summer, and I consider that to be the one last big tournament that I plan on really training for.  I may go to some more competitions yet, but now I am really looking into learning to judge and organize more than compete.  <br /><br />Ever since I was teaching TKD at VT I had been more interested in the coaching side of things.   Do crazy stuff like run a school, but not just any school I want the school that teaches all the insane stuff that I find interesting.  Not sure if there is anyone out there that wants to learn contemporary wushu, fight chorography, ground fighting and acrobatics but I would have loved to find a place that teaches that sort of thing.  Plus I have always dreamt of owning my own foam pit. <br /><br />My list is getting skewed these days, and it is becoming blurry where the lines are -- I think the fact that the birth of my first child is quickly approaching.  Of course it also seems like she is taking her sweet time, because I am dieing to play with her. <br /><br />A very short list of stuff I need to sift through and sort by importance (in no particular order): <br />Home Projects<br />-Back yard<br />-Back Patio<br />-Nursery<br />-Basement Bar<br /><br />Fun Projects<br />-Geeky projects (WushuWiki, Cookbook, Etc)<br />-Video stuff (not movies)<br />-Movies (PDP)<br />-Photography<br />-Teaching at Wushu<br />-Judge Training<br /><br />Spending time with my wife is always high priority, but the ironic thing is that is the first thing to get cut.  I always try to buffer in some time with her but it's like the coffee cup said: the most important things are the ones you take the most for granted.  I know there is overlap between certain activities, but in my head it don't count unless she thinks it counts.  And I am pretty sure she didn't think it counted as <i>spending time</i> when we were waxing our respective cars.  <br /><br />Sorry if this post is a little disjointed.  I wrote it in a very peace wise manner.  I started on it last week and on Friday I got the call from my Mom that my Nana passed away.  So we promptly rearranged out travel plans.  We were out there all week as opposed to this weekend like we had originally planned.  Work was very forgiving and allowed us to do whatever we needed.  I still worked a fair amount while I was gone, partly because I wanted to keep work happy so I can up and go away whenever I want with out them getting upset and party because I liked to work and concentrate on programming.  Things tended to get a little too sad when I didn't have something to keep me preoccupied.  I realize that I was fairly antisocial while I was there, but Kelly insists that was just fine given the circumstances.  <br /><br />Kelly said one of her friend at work was going to pray for the peaceful rest of my Nana.  I don't think she is resting; she did plenty of that in the hospital.  She is playing.  Some super fun games.  <br /><br />It has really emphasized the importance of family and helped to realign priorities. There were a few family related issues that the trip helped to workout, or at least bring back into my field of vision.  I tend to get caught up and not notice how important it is for me to do things like head down to Richmond and spend more time with those boys.  <br /><br />Nothing like loosing a family member when you are about to add a new one to slam you face first into some hardcore introflection. <br /><br />I really need to go workout.  I am emotionally spent and I think that residual tension that needs to be purged.  Purged with tornado kicks.<br /><br />It is supposed to snow this weekend, I think snowballs and a warm fire are exactly what Kelly, Leah and I could use.
+Some time during the superbowl tom pointed out that I haven't made a movie since I started work at AMS.  Now this is a fact that I am well aware of, but this really made me think.  I really want to make another short, but I have to seriously decide what my priorities are and put my time and effort into them.  With the sad fact that I must earn a paycheck I know there is no way I can do everything I want.  Heck, with the way my job has been going I want to go do the work to earn a paycheck.  I really like my job, but it doesn't count on my list of activities and projects that I need to prioritize since it trumps those things with the gettin' paid part.  
+
+
+
+The main reason I haven't done any goofy film making is wushu.  I consider wushu a better investment of time than making a movie, so if I need to make the choice between the two then I needed to err on the side of training.  But with recent accomplishments I don't think I am going to be stepping up training.  Pan Am's are this summer, and I consider that to be the one last big tournament that I plan on really training for.  I may go to some more competitions yet, but now I am really looking into learning to judge and organize more than compete.  
+
+
+
+Ever since I was teaching TKD at VT I had been more interested in the coaching side of things.   Do crazy stuff like run a school, but not just any school I want the school that teaches all the insane stuff that I find interesting.  Not sure if there is anyone out there that wants to learn contemporary wushu, fight chorography, ground fighting and acrobatics but I would have loved to find a place that teaches that sort of thing.  Plus I have always dreamt of owning my own foam pit. 
+
+
+
+My list is getting skewed these days, and it is becoming blurry where the lines are -- I think the fact that the birth of my first child is quickly approaching.  Of course it also seems like she is taking her sweet time, because I am dieing to play with her. 
+
+
+
+A very short list of stuff I need to sift through and sort by importance (in no particular order): 
+
+Home Projects
+
+-Back yard
+
+-Back Patio
+
+-Nursery
+
+-Basement Bar
+
+
+
+Fun Projects
+
+-Geeky projects (WushuWiki, Cookbook, Etc)
+
+-Video stuff (not movies)
+
+-Movies (PDP)
+
+-Photography
+
+-Teaching at Wushu
+
+-Judge Training
+
+
+
+Spending time with my wife is always high priority, but the ironic thing is that is the first thing to get cut.  I always try to buffer in some time with her but it's like the coffee cup said: the most important things are the ones you take the most for granted.  I know there is overlap between certain activities, but in my head it don't count unless she thinks it counts.  And I am pretty sure she didn't think it counted as _spending time_ when we were waxing our respective cars.  
+
+
+
+Sorry if this post is a little disjointed.  I wrote it in a very peace wise manner.  I started on it last week and on Friday I got the call from my Mom that my Nana passed away.  So we promptly rearranged out travel plans.  We were out there all week as opposed to this weekend like we had originally planned.  Work was very forgiving and allowed us to do whatever we needed.  I still worked a fair amount while I was gone, partly because I wanted to keep work happy so I can up and go away whenever I want with out them getting upset and party because I liked to work and concentrate on programming.  Things tended to get a little too sad when I didn't have something to keep me preoccupied.  I realize that I was fairly antisocial while I was there, but Kelly insists that was just fine given the circumstances.  
+
+
+
+Kelly said one of her friend at work was going to pray for the peaceful rest of my Nana.  I don't think she is resting; she did plenty of that in the hospital.  She is playing.  Some super fun games.  
+
+
+
+It has really emphasized the importance of family and helped to realign priorities. There were a few family related issues that the trip helped to workout, or at least bring back into my field of vision.  I tend to get caught up and not notice how important it is for me to do things like head down to Richmond and spend more time with those boys.  
+
+
+
+Nothing like loosing a family member when you are about to add a new one to slam you face first into some hardcore introflection. 
+
+
+
+I really need to go workout.  I am emotionally spent and I think that residual tension that needs to be purged.  Purged with tornado kicks.
+
+
+
+It is supposed to snow this weekend, I think snowballs and a warm fire are exactly what Kelly, Leah and I could use.

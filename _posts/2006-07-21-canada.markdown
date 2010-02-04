@@ -3,4 +3,6 @@ title: Canada
 tags: 
 layout: post
 ---
-Bobi the shoulder dragon<br />Taste his smell
+Bobi the shoulder dragon
+
+Taste his smell

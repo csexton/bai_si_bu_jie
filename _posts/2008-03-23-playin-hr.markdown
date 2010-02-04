@@ -3,4 +3,48 @@ title: Playin' HR
 tags: work
 layout: post
 ---
-I've been doing a bunch of interviews for programmers these days. I have been elected the phone screen guy, so whenever we get a new resume from the recruiter I get to give them a call to see if they are worth bringing in.  Alot of them are not.<br /><br />I have made a few rules for interviews.  If any of these rules are broken, I promptly thank them for their time and get off the phone, otherwise I would simply be getting their hopes up.<br /><br />Rule 1: Do not beg.<br /><br />I don't care how much you want the job, begging don't help. Especially if you are under-qualified for the position. <br /><br />Rule 2: Answer the question asked.<br /><br />Seriously, I like when people say "I don't know," if you ramble off in an unrelated direction, I just get annoyed.<br /><br />I am going to start writing down quotes.  Here is a quick excerpt from a recent phone call:<br /><br />Me: What is the difference between recursion and iteration?<br />Them: Oh, well, recursion, yeah I had a project that really needed that and I was going to implement it last year, but I didn't get a chance to. <br /><br />Later in that call:<br /><br />Me: Can you name a few design patterns?<br />Them: Um, sure.  Creator .... Polymorphism .... Protected.<br /><br />I am sure there are plenty of rules where those came from.
+I've been doing a bunch of interviews for programmers these days. I have been elected the phone screen guy, so whenever we get a new resume from the recruiter I get to give them a call to see if they are worth bringing in.  Alot of them are not.
+
+
+
+I have made a few rules for interviews.  If any of these rules are broken, I promptly thank them for their time and get off the phone, otherwise I would simply be getting their hopes up.
+
+
+
+Rule 1: Do not beg.
+
+
+
+I don't care how much you want the job, begging don't help. Especially if you are under-qualified for the position. 
+
+
+
+Rule 2: Answer the question asked.
+
+
+
+Seriously, I like when people say "I don't know," if you ramble off in an unrelated direction, I just get annoyed.
+
+
+
+I am going to start writing down quotes.  Here is a quick excerpt from a recent phone call:
+
+
+
+Me: What is the difference between recursion and iteration?
+
+Them: Oh, well, recursion, yeah I had a project that really needed that and I was going to implement it last year, but I didn't get a chance to. 
+
+
+
+Later in that call:
+
+
+
+Me: Can you name a few design patterns?
+
+Them: Um, sure.  Creator .... Polymorphism .... Protected.
+
+
+
+I am sure there are plenty of rules where those came from.

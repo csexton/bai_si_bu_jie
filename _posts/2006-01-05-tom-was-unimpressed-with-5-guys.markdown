@@ -3,4 +3,20 @@ title: Tom was unimpressed with 5 guys.
 tags: 
 layout: post
 ---
-And that is sad.  I didn't go with him, he went on his own to the springfield location.  Maybe he forgot to get a burger while he was there.  <br /><br />I don't really have the time to stop and write, but I ran into a problem and I am waiting for an email back.  So I wanted to jot something down.  Plus jiayo is slow today so I am not distracted by that.  <br /><br />Has anyone else noticed that any and all press about VT is all Vick leg stepping?  I was thoroughly pissed when we saw that, and I am hoping for some sort of punishment that hurts, but c'mon guys.  The ref that hasn't seen anything that bad in his 22 year career seems a bit sensationalistic.  Marcus was a jerk, but we have seen much worse things happen that got 15 yards at the most. I never wished google alerts would pick up some basketball stuff so bad.<br /><br />Tom came over for the USC-Texas insano game last night.  That game was insano.  I am glad there are no more games this week because I need sleep.  <br /><br />Kelly wants a post about awesome. Prolly a long, long post.  But that's kinda hard, the kid really doesn't' do too much.  (S)He and Kelly are attached at the hip, or something.  Boring.  Once the kid learns to kick then we got something to work with.
+And that is sad.  I didn't go with him, he went on his own to the springfield location.  Maybe he forgot to get a burger while he was there.  
+
+
+
+I don't really have the time to stop and write, but I ran into a problem and I am waiting for an email back.  So I wanted to jot something down.  Plus jiayo is slow today so I am not distracted by that.  
+
+
+
+Has anyone else noticed that any and all press about VT is all Vick leg stepping?  I was thoroughly pissed when we saw that, and I am hoping for some sort of punishment that hurts, but c'mon guys.  The ref that hasn't seen anything that bad in his 22 year career seems a bit sensationalistic.  Marcus was a jerk, but we have seen much worse things happen that got 15 yards at the most. I never wished google alerts would pick up some basketball stuff so bad.
+
+
+
+Tom came over for the USC-Texas insano game last night.  That game was insano.  I am glad there are no more games this week because I need sleep.  
+
+
+
+Kelly wants a post about awesome. Prolly a long, long post.  But that's kinda hard, the kid really doesn't' do too much.  (S)He and Kelly are attached at the hip, or something.  Boring.  Once the kid learns to kick then we got something to work with.

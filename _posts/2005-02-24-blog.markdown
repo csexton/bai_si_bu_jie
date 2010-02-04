@@ -3,4 +3,6 @@ title:
 tags: 
 layout: post
 ---
-<a href='http://www.fuzzymonk.com/chris/log/hello/105/3766/320/DSC02927.jpg'><img border='0' style='border:1px solid #000000; margin:2px' src='http://www.fuzzymonk.com/chris/log/hello/105/3766/320/DSC02927.jpg'></a><br />Is that backpack an accordion?&nbsp;<a href='http://www.hello.com/' target='ext'><img src='http://photos1.blogger.com/pbh.gif' alt='Posted by Hello' border='0' style='border:0px;padding:0px;background:transparent;' align='absmiddle'></a>
+<a href='http://www.fuzzymonk.com/chris/log/hello/105/3766/320/DSC02927.jpg'><img border='0' style='border:1px solid #000000; margin:2px' src='http://www.fuzzymonk.com/chris/log/hello/105/3766/320/DSC02927.jpg'></a>
+
+Is that backpack an accordion?&nbsp;<a href='http://www.hello.com/' target='ext'><img src='http://photos1.blogger.com/pbh.gif' alt='Posted by Hello' border='0' style='border:0px;padding:0px;background:transparent;' align='absmiddle'></a>

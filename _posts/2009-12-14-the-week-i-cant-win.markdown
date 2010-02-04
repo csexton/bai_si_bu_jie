@@ -18,7 +18,7 @@ Set traditional snap traps for the mouse, set one off and ate the peanut butter 
 
 Disassembled the inside of the car, removed the back seat, console and most of the dash. Unable to find the mouse.
 
-The TV decided it did not want to be off, it now randomly turns on. Magically. *
+The TV decided it did not want to be off, it now randomly turns on. Magically. \*
 
 Tried to take Leah to the Doc to look at her ears, got slammed in the post-HOV rush on I-66 and was late.
 
@@ -33,4 +33,4 @@ Lars' Nanny called and said his fever was up.
 Got the replacement parts for the car seats and it appears the 'harness strap kit' does not contain the 'harness adjustment strap'.
 
 
-* I removed the batteries from the remote, and unpluged the hdmi cable, it still did it. Eventually I had to unplug the set. I even closed the blinds to make sure the neighbors were not playing jokes on us. At 7:45 AM.
+\* I removed the batteries from the remote, and unpluged the hdmi cable, it still did it. Eventually I had to unplug the set. I even closed the blinds to make sure the neighbors were not playing jokes on us. At 7:45 AM.

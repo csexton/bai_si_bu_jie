@@ -3,4 +3,24 @@ title: If you can tivo the weather
 tags: 
 layout: post
 ---
-Plese pause the snow for a day.<br /><br />I was up late packing last night. I don’t leave until tomorrow morning, but I felt the need to get as ready as I could last night.  Last time I went to china I was packed up well in advance, but this time I was procrastinating.  I went shopping yesterday to get a few more things for the trip.  But a few more things (+ a remote controlled mouse for the cats) wound up being over $200.  It was the lacrosse bag and under armor shirt that killed me.  Necessary evils, really.  Just like the sour candy for the flight. <br /><br />At this point I am more nervous about the travel than the competition.  I think if I can get out of Newark on time (c’mon no snow) I should be fine.  I have a connection on Beijing to a different carrier, so we will see how that goes.  What I don’t know if continental is late getting me into Beijing will China Southern politely let us reschedule.  Well, worse comes to worse we get to play in Beijing for two weeks.  Heh, maybe then Stephan could train there like he wants.  No matter how many times you tell him 2 days is not enough time to train he still wants to try.  Poor guy, always training.   <br /><br />Oh, I got an email from Danh, who as quickly as he decided to go with us has changed his mind and backed out.  Damn, he was our free extra checked bag.  Not to mention our translator and expert in all things Vietnamese.  I guess this will just be a little more adventurous with out him.  And I am all about adventure.  With one stipulation, I like adventure when it doesn’t unexpectantly cost me a lot of extra money. <br /><br />Hmm, the snow is now whipping around downtown DC.  It is good for watching the interesting wind patterns.  It is bad for on time flights tomorrow.  This could get us there late.  Which if you consider Jason’s situation is not so bad, since his is flying standby if stuff gets canceled all the later flights will be packed and he won’t get to go anywhere. <br /><br />Must...get...out or North America...
+Plese pause the snow for a day.
+
+
+
+I was up late packing last night. I don’t leave until tomorrow morning, but I felt the need to get as ready as I could last night.  Last time I went to china I was packed up well in advance, but this time I was procrastinating.  I went shopping yesterday to get a few more things for the trip.  But a few more things (+ a remote controlled mouse for the cats) wound up being over $200.  It was the lacrosse bag and under armor shirt that killed me.  Necessary evils, really.  Just like the sour candy for the flight. 
+
+
+
+At this point I am more nervous about the travel than the competition.  I think if I can get out of Newark on time (c’mon no snow) I should be fine.  I have a connection on Beijing to a different carrier, so we will see how that goes.  What I don’t know if continental is late getting me into Beijing will China Southern politely let us reschedule.  Well, worse comes to worse we get to play in Beijing for two weeks.  Heh, maybe then Stephan could train there like he wants.  No matter how many times you tell him 2 days is not enough time to train he still wants to try.  Poor guy, always training.   
+
+
+
+Oh, I got an email from Danh, who as quickly as he decided to go with us has changed his mind and backed out.  Damn, he was our free extra checked bag.  Not to mention our translator and expert in all things Vietnamese.  I guess this will just be a little more adventurous with out him.  And I am all about adventure.  With one stipulation, I like adventure when it doesn’t unexpectantly cost me a lot of extra money. 
+
+
+
+Hmm, the snow is now whipping around downtown DC.  It is good for watching the interesting wind patterns.  It is bad for on time flights tomorrow.  This could get us there late.  Which if you consider Jason’s situation is not so bad, since his is flying standby if stuff gets canceled all the later flights will be packed and he won’t get to go anywhere. 
+
+
+
+Must...get...out or North America...

@@ -3,4 +3,42 @@ title:
 tags: 
 layout: post
 ---
-<b>How to wire your house for DSL in 17 easy steps.</b><br /><br /><b>Step 1:</b> Determine that the existing wiring is insufficient for carrying your precious DSL signal. <br /><b>Step 2:</b> Determine that the easiest way to run wire will be up the side of the house behind the gutter beside the coax that is already installed. <br /><b>Step 3:</b> Go to Radio Shack during your lunch break and buy all the stuff you need.<br /><b>Step 4:</b> Go to Home Depot after work and buy all the stuff you need again, but higher quality stuff at a cheaper price.<br /><b>Step 5:</b> Run the CAT3 out the guest room wall through using a wire coat hanger, packing tape, Lacrosse stick, and metal tie rack/hanger thingy.  This will require you to tape the cable to the coat hanger.  This will also require you to tape the tie rack thing to the lacrosse stick. You may or may not be required to dangle out the 3rd story window, cursing, while swing a tie rack (which has been fastened to a lacrosse stick for reach) at a coat hanger taped to a phone cable that is hung up on some piece of plastic that is wrapped around the coax on the side of the house.  <br /><b>Step 6:</b> Hold the CAT3 though the window and yank the coat hanger free from the tape.<br /><b>Step 7:</b> Use the coat hanger to run the phone cord through the hole in the basement, preferable while standing in the rain. <br /><b>Step 8:</b> Become very confused as to why there are 2 lines running into the house form the phone box.  Determine that one was patched in for the basement phone jack alone.  Unplug the other one and try the upstairs phone, which will magically still work.  Get confused.  <br /><b>Step 9:</b> Pull the wire back out of the basement wall and attach it to the phone box directly, in the rain.  It is recommended that ones wife hold the umbrella over the phone box.<br /><b>Step 10:</b> Return unneeded parts to radio shack and get hotdog at Costco. <br /><b>Step 11:</b> Arrive home around 10 pm and begin drilling though the ceiling.  This is a convenient way of telling your neighbor <i>"good night"</i>.<br /><b>Step 12:</b> climb into the attic to try to find the cable you fed up though the hole. This is a convenient time to notice that the insulation is very thick and makes it difficult to find the cable.  Also notice the huge TV antenna that apparently came with the house.<br /><b>Step 13:</b> Get Wife to bang on the ceiling so you can use echolocation to find the hole with a wire.  This is also a way of telling the neighbor <i>"sweet dreams"</i>. <br /><b>Step 14:</b> Determine the knocking is insufficient so ask for "digging tools" from the wife.  She should arrive with a screwdriver (medium flathead), a hammer and a multipurpose paint tool. Take the hammer. <br /><b>Step 15:</b> Find the hole under a HVAC duct, be happy you didn't drill though that. Begin pulling the cable though.  When it gets tangled yell for the wife to come help.  Every few feet the cable will get tangled, so the wife will yell something unintelligible, wait and she will dutifully untangle it.   <br /><b>Step 16:</b> After dropping the cable back thought the attic opening into the office inspect the VT antenna and its wiring. Trace the coax back to the far wall and notice there is a big gap in that wall that the wire runs down, noting that this would be a perfect place to run a CAT3 UTP phone cable. <br /><b>Step 17:</b> Wash the very itchy insulation off, crimp on a new RJ11 (really RJ14, but everyone calls them 11's) and test it out.  If fatigue is becoming a problem at this point, strip the live twisted pair with your teeth for a lively jolt of energy.  And a numb lip. <br />
+**How to wire your house for DSL in 17 easy steps.**
+
+
+
+**Step 1:** Determine that the existing wiring is insufficient for carrying your precious DSL signal. 
+
+**Step 2:** Determine that the easiest way to run wire will be up the side of the house behind the gutter beside the coax that is already installed. 
+
+**Step 3:** Go to Radio Shack during your lunch break and buy all the stuff you need.
+
+**Step 4:** Go to Home Depot after work and buy all the stuff you need again, but higher quality stuff at a cheaper price.
+
+**Step 5:** Run the CAT3 out the guest room wall through using a wire coat hanger, packing tape, Lacrosse stick, and metal tie rack/hanger thingy.  This will require you to tape the cable to the coat hanger.  This will also require you to tape the tie rack thing to the lacrosse stick. You may or may not be required to dangle out the 3rd story window, cursing, while swing a tie rack (which has been fastened to a lacrosse stick for reach) at a coat hanger taped to a phone cable that is hung up on some piece of plastic that is wrapped around the coax on the side of the house.  
+
+**Step 6:** Hold the CAT3 though the window and yank the coat hanger free from the tape.
+
+**Step 7:** Use the coat hanger to run the phone cord through the hole in the basement, preferable while standing in the rain. 
+
+**Step 8:** Become very confused as to why there are 2 lines running into the house form the phone box.  Determine that one was patched in for the basement phone jack alone.  Unplug the other one and try the upstairs phone, which will magically still work.  Get confused.  
+
+**Step 9:** Pull the wire back out of the basement wall and attach it to the phone box directly, in the rain.  It is recommended that ones wife hold the umbrella over the phone box.
+
+**Step 10:** Return unneeded parts to radio shack and get hotdog at Costco. 
+
+**Step 11:** Arrive home around 10 pm and begin drilling though the ceiling.  This is a convenient way of telling your neighbor _"good night"_.
+
+**Step 12:** climb into the attic to try to find the cable you fed up though the hole. This is a convenient time to notice that the insulation is very thick and makes it difficult to find the cable.  Also notice the huge TV antenna that apparently came with the house.
+
+**Step 13:** Get Wife to bang on the ceiling so you can use echolocation to find the hole with a wire.  This is also a way of telling the neighbor _"sweet dreams"_. 
+
+**Step 14:** Determine the knocking is insufficient so ask for "digging tools" from the wife.  She should arrive with a screwdriver (medium flathead), a hammer and a multipurpose paint tool. Take the hammer. 
+
+**Step 15:** Find the hole under a HVAC duct, be happy you didn't drill though that. Begin pulling the cable though.  When it gets tangled yell for the wife to come help.  Every few feet the cable will get tangled, so the wife will yell something unintelligible, wait and she will dutifully untangle it.   
+
+**Step 16:** After dropping the cable back thought the attic opening into the office inspect the VT antenna and its wiring. Trace the coax back to the far wall and notice there is a big gap in that wall that the wire runs down, noting that this would be a perfect place to run a CAT3 UTP phone cable. 
+
+**Step 17:** Wash the very itchy insulation off, crimp on a new RJ11 (really RJ14, but everyone calls them 11's) and test it out.  If fatigue is becoming a problem at this point, strip the live twisted pair with your teeth for a lively jolt of energy.  And a numb lip. 
+
+

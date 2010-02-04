@@ -3,4 +3,30 @@ title: Do I look silly to you?
 tags: 
 layout: post
 ---
-"Chris, you remind me of a cartoon" - Kat<br />"Yeah, Chris is a cartoon!" - Jessica<br /><br />"I love you for your goofiness" - Kelly<br /><br />Those might be paraphrased a little, but couple that with the fact that everyone who knows me and has seen <i>Malcolm in the Middle</i> thinks that Dewy is a young me and you have the makings of a serious complex.<br /><br />In other news I got rear ended the other day.  Middle of the day, I was on the way to our client site and suddenly I notice my head is slamming into the head rest.  I got out of the truck and saw this little Mercedes with her hood bent up and grill bashed in.  The lady didn't know what to do, and even said something along the lines of "should we exchange information or something".  Should we? Ya think?  I prolly could of gotten her information with out giving mine.   But I did.  I even had us pull off into a turn lane so we didn’t block traffic.  The truck, however escaped from the incident unscathed.  Yay for Chester!  I took him in for the 40K Mile service and had the dealer check him out they didn’t see anything wrong either.<br /><br />On a side note:  Thank you Toyota for your head rest.  <br /><br />8 days. I don’t feel ready.  My wushu sucks.  I think I will just stay home and tinker with the basement.  Who came up with this sport anyway?  <br /><br />Talking to myself: Nandu are solid. Just relax and go fast.  Aw crap, I am getting butterflies now.
+"Chris, you remind me of a cartoon" - Kat
+
+"Yeah, Chris is a cartoon!" - Jessica
+
+
+
+"I love you for your goofiness" - Kelly
+
+
+
+Those might be paraphrased a little, but couple that with the fact that everyone who knows me and has seen _Malcolm in the Middle_ thinks that Dewy is a young me and you have the makings of a serious complex.
+
+
+
+In other news I got rear ended the other day.  Middle of the day, I was on the way to our client site and suddenly I notice my head is slamming into the head rest.  I got out of the truck and saw this little Mercedes with her hood bent up and grill bashed in.  The lady didn't know what to do, and even said something along the lines of "should we exchange information or something".  Should we? Ya think?  I prolly could of gotten her information with out giving mine.   But I did.  I even had us pull off into a turn lane so we didn’t block traffic.  The truck, however escaped from the incident unscathed.  Yay for Chester!  I took him in for the 40K Mile service and had the dealer check him out they didn’t see anything wrong either.
+
+
+
+On a side note:  Thank you Toyota for your head rest.  
+
+
+
+8 days. I don’t feel ready.  My wushu sucks.  I think I will just stay home and tinker with the basement.  Who came up with this sport anyway?  
+
+
+
+Talking to myself: Nandu are solid. Just relax and go fast.  Aw crap, I am getting butterflies now.

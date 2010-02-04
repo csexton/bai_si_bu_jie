@@ -22,12 +22,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Hot chocolate or Chai?
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 06:58PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -45,12 +45,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Chicken &amp; Rice soup is appropriately comforting! It at least soothes some of today's aggrivations.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 06:00PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -68,12 +68,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             I just discovered baby Lars' rattle phone in my work bag.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 01:33PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -91,12 +91,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @kmsexton no matter how tempting, please don't go with "Daddy killed the Christmas tree"
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 01:24PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -114,12 +114,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             I am being serrenaded by plantive cries of "My Christmas tree, Leah's Christmas tree!" Oh my, how do I explain?
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 01:22PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -137,12 +137,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             I know LDAP is secure, Puppet is Cfengine, NIS is deprecated --  all I really want do to is sync passwd and shadow files.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 01:19PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -160,12 +160,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             The storage place doesn't open until 9:30, so I am stuck in Panera until then. But hey, Panera!
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 01:16PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -183,12 +183,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @itsgumby, @jorge2150 Gartz thong! FTW!
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 05:10AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -206,12 +206,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Deplosion aftershock has mortally wounded my evening.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 04:32AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -229,12 +229,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @ADDandy look into a DARD.  Helped me, and my shins used to hurt so bad I couldn't wear socks.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/21/2009 at 04:21AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -252,12 +252,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             is wondering if going to the office will be a semi-sane commute tomorrow.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 10:28PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -275,12 +275,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @KellyELawson we wish you were here too!
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 06:53PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -298,12 +298,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @doktahahpah I will twitter miss you. :-(
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 06:42PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -321,12 +321,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @doktahahpah I will twitter miss you. :-(
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 06:40PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -344,12 +344,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             @nikkilooch no way! I'm staying home.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 05:55PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -367,12 +367,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Working at home with the kids underfoot is not as easy as it seems. And it does not seem easy.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 03:37PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -390,12 +390,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Had to get stuck twice, blood wouldn't flow, but I'm through now.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 12:58PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -413,12 +413,12 @@ layout: post
             kmsexton
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Made it out to the lab just fine this morning for my bloodwork but they're not open yet.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/20/2009 at 12:18PM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -436,12 +436,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Self storage places are freaky after dark.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 02:32AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -459,12 +459,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Hauling stuff. I question if we actually need it.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/22/2009 at 01:53AM
-          </span> 
+           
         </div>
       </td>
     </tr>
@@ -482,12 +482,12 @@ layout: post
             fuzzymonk
           </a>
           </strong> 
-          <span class='twitter-text'>
+          
             Lars tried to defecate on me.
-          </span> 
-          <span style='font-style: italic; font-size:smaller;' class='twitter-date'>
+           
+          
             01/19/2009 at 11:58PM
-          </span> 
+           
         </div>
       </td>
     </tr>

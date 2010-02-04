@@ -3,4 +3,48 @@ title:
 tags: 
 layout: post
 ---
-New Mobo, Wushu Rank Revisited.<br /><br />Gotta be careful with USB Mice, plug that in backwards and your mother board will smoke spark and smell really bad.  Unfortunately  (or fortunately, depending) that didn�t make any difference as to getting the PS/2 ports to work.  After struggling to get a power supply that would actually provide enough power to boot I can�t get the stinking keyboard to work.  Worked fine during installation, and now the Num Lock/Caps Lock/Scroll Lock LEDs just sorta dimly flicker.  I asked Google about it and found a few other people who had the problem.  Their solution was to use a USB keyboard or return the mobo.  <br /><br />It all started because I wanted to get my PC working again.  I don�t know what the hell possessed me.  I should have saved my money and put it in my �get another Mac� fund.  It took a computer engineer 3 days and twice my, er�his, budget to get it working.  <br /><br />I had been having problems with my old AMD 700 system from the day I got it.  It would randomly freeze.  It got to the point that it wouldn�t find the keyboard or hard drive if it didn�t feel like it.  So I thought I would replace the mobo and processor.  Went down to Micro Center and found a combo package with an AMD Athlon XP 1800+.  I had to go for a new power supply, and opted for a stick of DDR memory.  I paid a whipping $12.99 for 256 Megs.  I may go back to get another.  I remember when I was paying $3 a meg. <br /><br />I angry computers.<br /><br />Wushu sucked last night, but that is mostly my fault.  Not that I was unhappy with training, but my upper ham hurts.  That makes things less fun.  And coach wasn�t there so we all slacked off.  Least it was staff.  The things I need to work on in staff seem much more obvious and easy to deal with.  Of course I should be working harder and get that form perfect. <br /><br /><hr><br /><br />I was thinking about ranks in wushu again the other day.  We were comparing how things are done at O-Mei with USWA, and came to some interesting conclusions.  The most interesting is come from a comment I over heard, something along the lines of �You don�t have to test in order to learn new stuff.� <br /><br />I think this makes a big difference.  I would like a system that 1) allows the rank to be reserved for people who actually deserve it.  Rank should only rewards people for skills are of the same level as everyone at that level.  But I also want a system that 2) encourages people of all skill levels to progress and keep learning, even if they know they will never be able to get the rank.  So what I need is a system that encourages people to learn while not necessarily progressing in rank. <br /><br />The one thing about the current system is it seems good for beginners and kids.  It has a standardized structured curriculum that everyone must (and can) go through.  But once the fundamental basics are put in place, people now understand how to punch and kick and are ready to start learning different styles everything changes.  Now that the intermediate level is obtained (what I mean by intermediate is normally is the �Advanced� class in most schools, but that level would be called intermediate in a tournament) thinks should change.  Certain people will still want to push hard and progress in rank, set personal goals and work their ass off to get them.  Lets not cheapen them by making their goal easier just because they worked hard for it.  Make it mean something.  And if they just want to learn more they can do it.  Once the coach understands that they have gotten their form to a place that is good relative to their skill level they should be allowed to learn more.  Of course quality control for this situation is hard and falls directly into the hands of the coach and they way he run things � but it is not nearly as important because no rank is being given out for it.  This protects the coach form loosing face and allows everyone to continue learning. <br /><br />I find it to be sad how many people quit because they are tired no waiting to finish their form and test, but the coach refuses because they require them to obtain a required skill level before they test.  Like I said, it works for beginners, but once you are past that it only discourages people from trying.<br /><br />Rank is a hard thing to handle in the wushu situation.  I have ranted in the past about why colored belts are bad and need to be done away with, instead opting for a system that doesn�t have this strong stigma around it.  Wait.  I can�t get into that again.
+New Mobo, Wushu Rank Revisited.
+
+
+
+Gotta be careful with USB Mice, plug that in backwards and your mother board will smoke spark and smell really bad.  Unfortunately  (or fortunately, depending) that didn't make any difference as to getting the PS/2 ports to work.  After struggling to get a power supply that would actually provide enough power to boot I can't get the stinking keyboard to work.  Worked fine during installation, and now the Num Lock/Caps Lock/Scroll Lock LEDs just sorta dimly flicker.  I asked Google about it and found a few other people who had the problem.  Their solution was to use a USB keyboard or return the mobo.  
+
+
+
+It all started because I wanted to get my PC working again.  I don't know what the hell possessed me.  I should have saved my money and put it in my 'get another Mac' fund.  It took a computer engineer 3 days and twice my, er'his, budget to get it working.  
+
+
+
+I had been having problems with my old AMD 700 system from the day I got it.  It would randomly freeze.  It got to the point that it wouldn't find the keyboard or hard drive if it didn't feel like it.  So I thought I would replace the mobo and processor.  Went down to Micro Center and found a combo package with an AMD Athlon XP 1800+.  I had to go for a new power supply, and opted for a stick of DDR memory.  I paid a whipping $12.99 for 256 Megs.  I may go back to get another.  I remember when I was paying $3 a meg. 
+
+
+
+I angry computers.
+
+
+
+Wushu sucked last night, but that is mostly my fault.  Not that I was unhappy with training, but my upper ham hurts.  That makes things less fun.  And coach wasn't there so we all slacked off.  Least it was staff.  The things I need to work on in staff seem much more obvious and easy to deal with.  Of course I should be working harder and get that form perfect. 
+
+
+
+<hr>
+
+
+
+I was thinking about ranks in wushu again the other day.  We were comparing how things are done at O-Mei with USWA, and came to some interesting conclusions.  The most interesting is come from a comment I over heard, something along the lines of 'You don't have to test in order to learn new stuff.' 
+
+
+
+I think this makes a big difference.  I would like a system that 1) allows the rank to be reserved for people who actually deserve it.  Rank should only rewards people for skills are of the same level as everyone at that level.  But I also want a system that 2) encourages people of all skill levels to progress and keep learning, even if they know they will never be able to get the rank.  So what I need is a system that encourages people to learn while not necessarily progressing in rank. 
+
+
+
+The one thing about the current system is it seems good for beginners and kids.  It has a standardized structured curriculum that everyone must (and can) go through.  But once the fundamental basics are put in place, people now understand how to punch and kick and are ready to start learning different styles everything changes.  Now that the intermediate level is obtained (what I mean by intermediate is normally is the 'Advanced' class in most schools, but that level would be called intermediate in a tournament) thinks should change.  Certain people will still want to push hard and progress in rank, set personal goals and work their ass off to get them.  Lets not cheapen them by making their goal easier just because they worked hard for it.  Make it mean something.  And if they just want to learn more they can do it.  Once the coach understands that they have gotten their form to a place that is good relative to their skill level they should be allowed to learn more.  Of course quality control for this situation is hard and falls directly into the hands of the coach and they way he run things ' but it is not nearly as important because no rank is being given out for it.  This protects the coach form loosing face and allows everyone to continue learning. 
+
+
+
+I find it to be sad how many people quit because they are tired no waiting to finish their form and test, but the coach refuses because they require them to obtain a required skill level before they test.  Like I said, it works for beginners, but once you are past that it only discourages people from trying.
+
+
+
+Rank is a hard thing to handle in the wushu situation.  I have ranted in the past about why colored belts are bad and need to be done away with, instead opting for a system that doesn't have this strong stigma around it.  Wait.  I can't get into that again.

@@ -1,5 +1,5 @@
 ---
-title: Dad is a Parent*
+title: Dad is a Parent\*
 tags: 
 layout: post
 ---

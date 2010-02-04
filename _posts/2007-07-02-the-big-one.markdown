@@ -3,4 +3,20 @@ title: The Big One.
 tags: leah
 layout: post
 ---
-Leah turned one yesterday and we had the party to prove it.  It was a few weeks of planning on Kelly's part, then there was a couple of days of baking and prepping.  Mostly baking. We baked 4 cakes, carved one into a penguin and added a few few basketfuls of cupcakes just for fun.  Turns out that cake decorating is a really good grip strength exercise. <br /><br />We were going to do practice cakes on Friday, so Kelly made a quick cake mix into a sheet cake and we carved it out into a penguin and iced it.  Well, he turned out cute, so we decided that we were going to keep him for the party and promptly decreed that no one is to harm the penguin-cake and tucked him away in the fridge. <br /><br />Saturday we made the Big bear and two little bear cakes and got to icing them up.  It was also when we really had to get the house cleaned up nicely, if anything to make room for all the loot Leah was going to collect. <br /><br />Sunday was beautiful, we couldn't have asked for a nicer day.  It wasn't oppressively hot, or raining--just nice.  Kelly and I headed down to the lake to setup and get ready, and found Nanjo and Kids there waiting for us. Our picnic area was nice and shady, with a polite breeze.  We filled balloons, and set up table clothes and waited for Grandma to bring the birthday girl. Leah was pretty happy, I thought she would be in a better mood, but she wasn't unhappy by any means.  She didn't mind people holding her (except Todd) and was more than happy eating her little cake.  However, she didn't do face first dive into it, to my dismay.<br /><br />I think all the kids had a good time--Everett, Neal and I played Frisbee with the older kids for bit.  There was plenty of playground to handle the pandemonium.
+Leah turned one yesterday and we had the party to prove it.  It was a few weeks of planning on Kelly's part, then there was a couple of days of baking and prepping.  Mostly baking. We baked 4 cakes, carved one into a penguin and added a few few basketfuls of cupcakes just for fun.  Turns out that cake decorating is a really good grip strength exercise. 
+
+
+
+We were going to do practice cakes on Friday, so Kelly made a quick cake mix into a sheet cake and we carved it out into a penguin and iced it.  Well, he turned out cute, so we decided that we were going to keep him for the party and promptly decreed that no one is to harm the penguin-cake and tucked him away in the fridge. 
+
+
+
+Saturday we made the Big bear and two little bear cakes and got to icing them up.  It was also when we really had to get the house cleaned up nicely, if anything to make room for all the loot Leah was going to collect. 
+
+
+
+Sunday was beautiful, we couldn't have asked for a nicer day.  It wasn't oppressively hot, or raining--just nice.  Kelly and I headed down to the lake to setup and get ready, and found Nanjo and Kids there waiting for us. Our picnic area was nice and shady, with a polite breeze.  We filled balloons, and set up table clothes and waited for Grandma to bring the birthday girl. Leah was pretty happy, I thought she would be in a better mood, but she wasn't unhappy by any means.  She didn't mind people holding her (except Todd) and was more than happy eating her little cake.  However, she didn't do face first dive into it, to my dismay.
+
+
+
+I think all the kids had a good time--Everett, Neal and I played Frisbee with the older kids for bit.  There was plenty of playground to handle the pandemonium.
