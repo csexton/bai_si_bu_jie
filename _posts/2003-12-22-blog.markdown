@@ -1,0 +1,6 @@
+---
+title: 
+tags: 
+layout: post
+---
+Solaris hates me.  OK, so I was stupid and screwed it up proper, and should be formally repremanded for my horrid unix blunders.  But I fixed that. Now I am having a hell of a time getting the stuffed that worked before to work again.  It is just diffrent enough from linux that it throws me off.  At least the bsd in darwin was polite.  I want to punch that loud-ass server right in the DNS.  <br /><br />I took a LONG lunch today, it consisted of traing at 11, and meeting both work friends and normal friend+wife. But don't worry, I am getting punished by the Sun of the devil.  Sneaky server.
