@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: default
 title: Fuzzymonk.com
 ---
 hi
@@ -7,6 +7,9 @@ hi
 <div>
   Post:
   <a href="{{ post.url }}">{{ post.title }}</a>
+  <div>
+    <a href="{{ post.url }}">Comments</a>
+  </div>
 </div>
 {% endfor %}
 
