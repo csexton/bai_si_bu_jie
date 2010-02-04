@@ -7,17 +7,17 @@ Leah likes to play a few games.
 
 
 
- \* Ball
- \* Run and Kick (and skip and kick)
- \* Sweatshirt
- \* 1-2-3-4
- \* Ski Jump
- \* Rolling over
- \* Over the leg
- \* Looking at lights
- \* Ceiling Monster
- \* Hiccups
- \* Ampere's neck trick
+ * Ball
+ * Run and Kick (and skip and kick)
+ * Sweatshirt
+ * 1-2-3-4
+ * Ski Jump
+ * Rolling over
+ * Over the leg
+ * Looking at lights
+ * Ceiling Monster
+ * Hiccups
+ * Ampere's neck trick
 
 We are pretty sure Sweatshirt is her favorite game.  Rolling over is probably the scariest one we have.
 

@@ -25,23 +25,23 @@ Happy things from this weekend:
 
 
 
- \* Gerald came up.
- \* Kelly and Helen getting along so well.
- \* Not a drop of rain until all the pictures were taken.
- \* Ay-jah-mah-jay!
- \* 5 people balling their eyes out at the head table during the toasts. 
- \* Danny's tricky dance (the song wasn't long enough).
- \* Re-alphabetizing Helen's DVD collection.
- \* Jeannie delivering her vows louder than dirk.
- \* The U-F-Oh My God (AKA the Disk'O on the steel pier).
- \* Mrs. McHugh smacking Danny's hung-over head.
- \* Dirky-poo.
- \* Jeannie's dress.
- \* Calling Lance "Bubbles".\*
- \* NIN's Closer at the reception. 
- \* Wearing a tux to the brunch.
- \* Videographer filming bowling shenanigans (specifically the wave with the cross bowling action)
- \* 4, count 'em 4 flower girls.
+ * Gerald came up.
+ * Kelly and Helen getting along so well.
+ * Not a drop of rain until all the pictures were taken.
+ * Ay-jah-mah-jay!
+ * 5 people balling their eyes out at the head table during the toasts. 
+ * Danny's tricky dance (the song wasn't long enough).
+ * Re-alphabetizing Helen's DVD collection.
+ * Jeannie delivering her vows louder than dirk.
+ * The U-F-Oh My God (AKA the Disk'O on the steel pier).
+ * Mrs. McHugh smacking Danny's hung-over head.
+ * Dirky-poo.
+ * Jeannie's dress.
+ * Calling Lance "Bubbles".\*
+ * NIN's Closer at the reception. 
+ * Wearing a tux to the brunch.
+ * Videographer filming bowling shenanigans (specifically the wave with the cross bowling action)
+ * 4, count 'em 4 flower girls.
 
 
 

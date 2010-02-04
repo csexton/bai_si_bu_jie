@@ -11,19 +11,19 @@ Kelly has discovered that Laurence can play a few games.  Not nearly as advanced
 
 
 
- \* Biggest eyes
+ * Biggest eyes
 
 
- \* Holdin' meh head ups
+ * Holdin' meh head ups
 
 
- \* I's so mad im gonna turn red
+ * I's so mad im gonna turn red
 
 
- \* Pee on dad
+ * Pee on dad
 
 
- \* It's 3 AM and i wanna eat!
+ * It's 3 AM and i wanna eat!
 
 
 

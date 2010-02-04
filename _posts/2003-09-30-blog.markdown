@@ -11,8 +11,8 @@ Topics of interest are
 
 
 
- \* Chillin' in LA with Tina
- \* QDX's Job
- \* QDX's Car
- \* Lost in Santa Monica
- \*  Disney
+ * Chillin' in LA with Tina
+ * QDX's Job
+ * QDX's Car
+ * Lost in Santa Monica
+ *  Disney

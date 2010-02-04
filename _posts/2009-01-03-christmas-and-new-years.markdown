@@ -3,87 +3,50 @@ title: Christmas and New Years
 tags: family
 layout: post
 ---
-Christmas for the Sexton's, like always, was full of pandemonium. 
-
-
+Christmas for the Sexton's, like always, was full of pandemonium.
 
 We went down to Richmond to see the my side of the clan, which had the added bonus of having Nikki and Anthony.  We actually had people in every bedroom at my parents house -- I think it has been a while since that happened.  But now that the Sexton's take up 3 rooms for sleeping it the spare space seems to disappear pretty quick.
 
-
-
 My parents bought tickes for The Demarco's, The Wilson's and us to go see the lights at the botanical gardens.  I strapped Lars in the snugli, and we wondered in the cold looking at everything. The smores were fun but $3 for a bag with a gram cracker, marshmallow or two and a half a Hershey's bar seemed a bit steep. But it was worth it to watch Leah swing a flaming marshmellow at her mom's face.
-
-
 
 <img class="photo" src="http://www.fuzzymonk.com/photos/cache/christmas_2008/IMG_8640.JPG_595.jpg" />
 
 Leah and her mom in the light maze
 
+We had an early Christmas at my parents before we left to Grandma's for second Christmas.  We packed up the loot (recieve much more than we gave, that's for sure), and headed back up to Burke to prep for Christmas morning (a.k.a. third Christmas).  By the time we were finally up and playing with the presents from Santa man, them Tulli showed up for forth Christmas.
 
-
-We had an early Christmas at my parents before we left to Grandma's for second Christmas.  We packed up the loot (recieve much more than we gave, that's for sure), and headed back up to Burke to prep for Christmas morning (a.k.a. third Christmas).  By the time we were finally up and playing with the presents from Santa man, them Tulli showed up for forth Christmas. 
-
-
-
-Christmas twice is nice, but four....is awesome.  
-
-
+Christmas twice is nice, but four....is awesome.
 
 The best part is Leah finally gets it. And not only that be was extremely well behaved. I am not sure how we did it, nor how long it is gonna last, but I will take the good behavior while I can get it.
 
-
-
 And now, what everyone wants, pictures:
-
-
-
-
 
 <img class="photo" src="http://www.fuzzymonk.com/photos/cache/christmas_2008/IMG_8474.JPG_595.jpg" />
 
 Christmas Kids
 
-
-
 <img class="photo" src="http://www.fuzzymonk.com/photos/cache/christmas_2008/IMG_8657.JPG_595.jpg" />
 
 Bucket baby
-
-
 
 <img class="photo" src="http://www.fuzzymonk.com/photos/cache/christmas_2008/IMG_8749.JPG_595.jpg" />
 
 Leah's big present
 
-
-
 <img class="photo" src="http://www.fuzzymonk.com/photos/cache/christmas_2008/IMG_8765.JPG_595.jpg" />
 
 Lars' big present
-
-
 
 <img class="photo" src="http://www.fuzzymonk.com/photos/cache/christmas_2008/IMG_8734.JPG_595.jpg" />
 
 At great grandma's
 
-
-
 <img class="photo" src="http://www.fuzzymonk.com/photos/cache/christmas_2008/IMG_8790.JPG_595.jpg" />
 
 Boo! I'm a santamen!
 
-
-
 <a href="http://www.fuzzymonk.com/photos/christmas_2008/">More Pictures in the album.</a>
-
-
 
 Now I will leave you with a little saying that Leah has learned from her dad. I bet this will never get old.
 
-
-
-<object width="425" height="344">
-</param>
-</param>
-</param><embed src="http://www.youtube.com/v/H1Q3mTzaY_w&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+http://www.youtube.com/v/H1Q3mTzaY_w&hl=en&fs=1

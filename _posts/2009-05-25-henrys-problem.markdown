@@ -14,6 +14,6 @@ I have tried scolding the cat while I turn him around, no workie.  So I need to 
 
 
 
- \*  Keep a ball point pen around to insert into the nearest orafice when he presents. I cannot imagine the behavior will persist if there is any probing done on a regualr basis. I have ruled this option out, as I would never be able to look Henry in the eye again.
+ *  Keep a ball point pen around to insert into the nearest orafice when he presents. I cannot imagine the behavior will persist if there is any probing done on a regualr basis. I have ruled this option out, as I would never be able to look Henry in the eye again.
 
 OK, so that is the only option I have come up with so far.  If anyone has an suggestions please let me know.
