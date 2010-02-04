@@ -1,6 +1,0 @@
----
-title: Kitty at my foot...
-tags: 
-layout: post
----
-<embed style="width:400px; height:326px;" id="VideoPlayback" align="middle" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?videoUrl=http%3A%2F%2Fvp.video.google.com%2Fvideodownload%3Fversion%3D0%26secureurl%3DvwAAAG7ggqAHSiJjpW0D3w4aYTVyTIF_4wWSnINir0bA0JoRtukBw_VR8cR1RLf_74KtDSJ7TrH53wxhzrxuChG_QiQHUy3wKc8rvTI6pgLM5VJ2u-BEceG6_CmTjzPhC_UmtAj6JIYvaMM_sJuV2c3Gm_rPiMJe6L9McROhOsnQpaT2Ty9T0QkXhTQZ15JfWPuUBOYuqUR1VcCSQba43MsfXnzIaOjB85QATQWPPTDjgHFBj6C0oVkm4oKbJexnfkCyEg%26sigh%3DYHfOv-vys_jALHjLdiSGTbzBLs0%26begin%3D0%26len%3D71833%26docid%3D3719908412199702049&thumbnailUrl=http%3A%2F%2Fvideo.google.com%2FThumbnailServer%3Fapp%3Dvss%26contentid%3D3ab1012df8e4e0bb%26second%3D5%26itag%3Dw320%26urlcreated%3D1149191552%26sigh%3DSrtfFZRzNnbtWd9clI_Tw8ir0So&amp;playerId=3719908412199702049" allowscriptaccess="sameDomain" quality="best" bgcolor="#ffffff" scale="noScale" wmode="window" salign="TL" flashvars="playerMode=embedded"> </embed>

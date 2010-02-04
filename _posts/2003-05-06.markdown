@@ -1,6 +1,0 @@
----
-title: 
-tags: 
-layout: post
----
-I unable to make my post yesterday because of the firewall here at work.  Lets hope this one works.

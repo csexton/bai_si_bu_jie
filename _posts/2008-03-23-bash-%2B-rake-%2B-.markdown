@@ -1,6 +1,0 @@
----
-title: Bash + Rake + 
-tags: tech
-layout: post
----
-i wanted tab completion for rake tasks with bash on OS X, so...<br /><br />I Installed the gem:<br /><pre><br /> sudo gem install rake-command-completion<br /></pre><br /><br />Then I added this to .bash_login (or .bashrc)<br /><pre><br />complete -C /usr/local/bin/command_completion_for_rake -o default rake<br /></pre>
