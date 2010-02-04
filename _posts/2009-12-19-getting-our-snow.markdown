@@ -1,5 +1,5 @@
 ---
-title: Getting our snow on...the ground
+title: Getting our snow on the ground
 tags: 
 layout: post
 ---

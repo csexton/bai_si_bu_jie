@@ -1,6 +1,18 @@
 ---
-title: 323C+1: Failed.
+title: 323C+1 Failed
 tags: wushu
 layout: post
 ---
-The more people that try to do C level movements the more people don't make their nandu.<br /><br />So I was a judge at collegiates this past weekend, which was a very good exercise in practicing my judging skills.  Since I was a C judge I got very familiar with the software that they use for tallying up the nandu scores.  Now that I am familiar with it I would like to rewrite it from scratch. Shouldn't be hard to roll a new version out and would be a fun little python/sqlite project. I think some of the issues they were trying to design around are irrelevant now that we have used it in practice.  <br /><br />The tournament was run amazingly well, I think the best run wushu tournaments I have been too to date.  They had a good crowd there, the venue was bigger than we needed so we were able to spread out.  Kevin and Justin ran their respective carpets smoothly and Mario added his own special metro sexual flavor to the event. Them wushu turtles did a good job.  <br /><br />After the main event, we hung around for the tricks contest.  I was a little sad I didn't succumb to Lil Alex's plea to participate.  Especially when they had the back tuck melee and the butterfly contest.  The winner had 18.5 butterfly's.  Bah!<br /><br />We met up with the Tulli for some year-of-the-pig bbq.  Tasty.  Leah had a pretty good time till she started getting a little cranky and required someone to stand and hold her.<br /><br />After dinner Neal and I hopped in the car and drove to the metro where so we could ride out to Georgetown.  Wushu after party in a the lounge of a greek restaurant us surprisingly fun.  It was awesome to hang with everyone, so many people I hadn't seen  in years.  Kevin, James, Dean, Y -- the whole gang was there.  I got toasty, bought a few people drinks.  Had a great time.<br /><br />The ride home was a bit of a debacle.  We missed our transfer stop twice.  If that don't make you feel dumb then missing the turn to get home will. We made it and a mere hour later than we would have if we knew what we were doing.
+The more people that try to do C level movements the more people don't make their nandu.
+
+So I was a judge at collegiates this past weekend, which was a very good exercise in practicing my judging skills.  Since I was a C judge I got very familiar with the software that they use for tallying up the nandu scores.  Now that I am familiar with it I would like to rewrite it from scratch. Shouldn't be hard to roll a new version out and would be a fun little python/sqlite project. I think some of the issues they were trying to design around are irrelevant now that we have used it in practice.  
+
+The tournament was run amazingly well, I think the best run wushu tournaments I have been too to date.  They had a good crowd there, the venue was bigger than we needed so we were able to spread out.  Kevin and Justin ran their respective carpets smoothly and Mario added his own special metro sexual flavor to the event. Them wushu turtles did a good job.  
+
+After the main event, we hung around for the tricks contest.  I was a little sad I didn't succumb to Lil Alex's plea to participate.  Especially when they had the back tuck melee and the butterfly contest.  The winner had 18.5 butterfly's.  Bah!
+
+We met up with the Tulli for some year-of-the-pig bbq.  Tasty.  Leah had a pretty good time till she started getting a little cranky and required someone to stand and hold her.
+
+After dinner Neal and I hopped in the car and drove to the metro where so we could ride out to Georgetown.  Wushu after party in a the lounge of a greek restaurant us surprisingly fun.  It was awesome to hang with everyone, so many people I hadn't seen  in years.  Kevin, James, Dean, Y -- the whole gang was there.  I got toasty, bought a few people drinks.  Had a great time.
+
+The ride home was a bit of a debacle.  We missed our transfer stop twice.  If that don't make you feel dumb then missing the turn to get home will. We made it and a mere hour later than we would have if we knew what we were doing.
