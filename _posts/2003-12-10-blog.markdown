@@ -1,16 +1,16 @@
 ---
-title: 
-tags: 
+title:
+tags:
 layout: post
 ---
-I raked in the loot:  a new phone, a sweet winter coat, fun electric razor, and the best belt ever.  Gotta give everyone a proper punch in the belly to thank them.  Plus I recieved more phone calls to wish me a happy day than I have ever recieved before.  Super fun. 
+I raked in the loot:  a new phone, a sweet winter coat, fun electric razor, and the best belt ever.  Gotta give everyone a proper punch in the belly to thank them.  Plus I recieved more phone calls to wish me a happy day than I have ever recieved before.  Super fun.
 
+And now a joke:
 
+x and e^x are walking down the street. They encounter d/dx, who operates on them. x disappears. e^x survives, thanking the math gods that he is immune to differential operators. While walking on, he encounters another operator coming toward him. "Who are you?" he asks. "I'm d/dy," the operator answers.
 
-And now a joke:<blockquote>x and e^x are walking down the street. They encounter d/dx, who operates on them. x disappears. e^x survives, thanking the math gods that he is immune to differential operators. While walking on, he encounters another operator coming toward him. "Who are you?" he asks. "I'm d/dy," the operator answers. </blockquote>
+Shuddup, I never said I wasn't a [geek](http://science.slashdot.org/article.pl?sid=03/12/05/1729215&mode=thread&tid=133&tid=186)>.
 
+ A neutron walks into a bar and asks "how much for a beer?" The bartender replies "for you, no charge."
 
-
-Shuddup, I never said I wasn't a <a href="http://science.slashdot.org/article.pl?sid=03/12/05/1729215&mode=thread&tid=133&tid=186">geek</a>. 
-
-<blockquote> A neutron walks into a bar and asks "how much for a beer?" The bartender replies "for you, no charge."</blockquote>Yeah yeah, I know.  
+ Yeah yeah, I know.

@@ -3,7 +3,7 @@ title:
 tags:
 layout: post
 ---
-I did it for real.  It felt so good.  Finally hit that trick.  <a href=http://fuzzymonk.homeip.net:8080/video/chris_roundoffbackback.mpg>Check</a> it out if you want.
+I did it for real.  It felt so good.  Finally hit that trick.  [Check](http://fuzzymonk.homeip.net:8080/video/chris_roundoffbackback.mpg) it out if you want.
 
 Next is a layout, then a few back handsprings before the flip.
 
