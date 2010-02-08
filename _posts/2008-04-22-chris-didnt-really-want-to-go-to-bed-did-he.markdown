@@ -35,6 +35,6 @@ At least we've scored some tupperware, a grocery bag, and some assorted crap tha
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_6064.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_6064.JPG" class="picture" />
 
 Fun times at Fort Truxion!

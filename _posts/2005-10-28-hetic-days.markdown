@@ -15,7 +15,7 @@ Kelly was kind enough to go to home depot and talk to the appliance people to ge
 
 I never said this was gong to be chronological.
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/Stove.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/Stove.jpg" />
 
 I installed the stove and everything appears to be working now.  No leaks.  No bubbles with soapy water.  No smell. It makes fire real nice. Everyone say a quick prayer for me, just in case.  Please.
 

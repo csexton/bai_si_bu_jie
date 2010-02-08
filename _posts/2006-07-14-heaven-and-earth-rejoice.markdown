@@ -7,7 +7,7 @@ Leah's Grandpappy's (aka Peepaw) vision of the Washington Post on July 1st:
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/Leahs_Press_Release.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/leah/image/595/Leahs_Press_Release.jpg" class="picture">
 
 
 

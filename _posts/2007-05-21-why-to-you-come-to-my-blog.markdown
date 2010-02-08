@@ -13,23 +13,23 @@ Pictures of the baby. Now, I may be wrong, and you would rather me drone on and 
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_1106.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_1106.JPG" class="picture" />
 
 There is toys in this here chest
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_1190.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_1190.JPG" class="picture" />
 
 Bath duck gets kisses.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_1279.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_1279.JPG" class="picture" />
 
 Gettin' some stars
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_1415.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_1415.JPG" class="picture" />
 
 Catch Dad!
 

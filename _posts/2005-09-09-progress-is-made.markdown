@@ -7,11 +7,11 @@ Last weekend we (Kelly, Neal, Paw Tullos and I) went nuts working on the basemen
 
 We accomplished enough that we were able to set up the equipment and get the projector up and running.  Which resulted in inviting people over and christen the basement with a football game.  Hokies did it in the end, but it was a close game but we squeaked NC State for the win.
 
-<img src="http://fuzzymonk.com/photos/destruction_at_truxion/image/595/IMG_1026.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/destruction_at_truxion/image/595/IMG_1026.jpg" class="picture" />
 
 The work continues,
 
-<img src="http://fuzzymonk.com/photos/destruction_at_truxion/image/595/IMG_1025.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/destruction_at_truxion/image/595/IMG_1025.jpg" class="picture" />
 
 we still have some painting.  There are some places that really could use some more mudding, but I may just pretend to not notice them.  I have been tinkering with the AV stuff, getting the computer working on the projector was not so trivial.
 

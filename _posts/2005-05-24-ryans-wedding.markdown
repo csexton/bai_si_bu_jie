@@ -13,7 +13,7 @@ We got down, got the room and got Chic-Fil-a.  Got it?  Eventually we found the 
 
 The actual ceremony was a nice polite protestant wedding. We jumped in the cars and rushed back to the hotel, calling the cabs on the way.  Three cabs was overkill, I think.  And they all were going off about how far the trip was.  It was a total of 9 miles, and they were bitching saying “yeah, maybe once you get to _that_ town”.  In the end it was 9 miles and less than $20 a cab ride.
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/ryan_reception.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/ryan_reception.jpg" />
 
 Leah’s Parent’s house was amazing.  It was right on the Chesapeake Bay with the entire backyard being a peninsula that jutted out into the bay.  It was gorgeous, sail boats anchored just off shore and a little boat house bar for her dad.  They had a band and a dance floor set up in the back, just a few feet form the water, tents for sitting, and tents full of food.  My personal favorite was the tend with the local BBQ place serving some tasty grub.
 
@@ -25,6 +25,6 @@ I called a couple of cabs, and we piled in.  The verdict for my cab was to go ba
 
 It was a good thing we headed back to the hotel, people were not feeling well.  Most of us just needed to lie down, some needed to spend some quality time curled up in the fetal position in a bathtub.
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/ryan_drive.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/ryan_drive.jpg" />
 
 It was a good night, and everyone there had a good time.  The next morning was not so fun.  IHOP had a 45min wait, so we bailed not hat found some Einstein Bros. like place and ate a little breakfast before heading back to DC.  The ride back wasn’t nearly as fun as the one down.  Very little chatting and joking, a lot of sleeping and moaning, it sucks to have to be the driver.  I know Kelly offered, but I’s got more chivalry than that.

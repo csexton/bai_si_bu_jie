@@ -7,7 +7,7 @@ I was playing with the camera last night, and the cats provided by far the most 
 
 
 
-<img src="http://fuzzymonk.com/photos/cats/image/595/exphenry.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/cats/image/595/exphenry.jpg" class="picture">
 
 
 
@@ -15,7 +15,7 @@ Henry under the table.  Nice warm colors.  Check out the reflections in the eyes
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/expampere.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/blog/image/595/expampere.jpg" class="picture">
 
 
 

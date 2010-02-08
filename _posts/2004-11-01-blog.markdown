@@ -11,7 +11,7 @@ For Posterity's Sake:
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/hokido.jpg" class="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/hokido.jpg" class="center" />
 
 
 

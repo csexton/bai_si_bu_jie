@@ -7,24 +7,24 @@ Nursery is done.  Well, mostly.  Originally there were plans for fluffy clouds, 
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/nursery02.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/nursery02.jpg" class="picture" />
 
 I need a better picture, I used the flash since I didn't have decent lighting or a tripod and the colors are wack.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/nursery01.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/nursery01.jpg" class="picture" />
 
 Lil mama chillin in her lil room.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/nursery03.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/nursery03.jpg" class="picture" />
 
 And cats chill in there too.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/snugli01.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/snugli01.jpg" class="picture" />
 
 The only way to coax a cat out of the nursery is to bribe him with a ride in the snugli.

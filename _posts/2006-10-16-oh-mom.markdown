@@ -3,7 +3,7 @@ title: Oh, Mom!
 tags: 
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_7471.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_7471.JPG" class="picture" />
 
 _Oh mom, you're so silly_
 

@@ -42,24 +42,24 @@ Clearly there is plenty to be grateful on that list, but plenty that made for a 
 
 Still, it is nice to have a photogenic set o' kids:
 
-<img src="http://fuzzymonk.com/photos/cache/beach_week_2009/IMG_1709.JPG_595.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/cache/beach_week_2009/IMG_1709.JPG_595.jpg" class="photo" />
 Lars going eagle style on that shell.
 
 
-<img src="http://fuzzymonk.com/photos/cache/beach_week_2009/IMG_1867.JPG_595.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/cache/beach_week_2009/IMG_1867.JPG_595.jpg" class="photo" />
 Lars and his pops on Life is Good shirt day
 
-<img src="http://fuzzymonk.com/photos/cache/beach_week_2009/IMG_1752.jpg_595.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/cache/beach_week_2009/IMG_1752.jpg_595.jpg" class="photo" />
 Convincing grandpa that Hawaiian shirts are cool
 
-<img src="http://fuzzymonk.com/photos/cache/beach_week_2009/IMG_1938.JPG_595.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/cache/beach_week_2009/IMG_1938.JPG_595.jpg" class="photo" />
 Leah found some shells and they are pretty
 
-<img src="http://fuzzymonk.com/photos/cache/beach_week_2009/IMG_1948.jpg_595.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/cache/beach_week_2009/IMG_1948.jpg_595.jpg" class="photo" />
 Taking her brother out to the lighthouse
 
-<img src="http://fuzzymonk.com/photos/cache/beach_week_2009/IMG_1851.JPG_595.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/cache/beach_week_2009/IMG_1851.JPG_595.jpg" class="photo" />
 Nene with them kids on Life is Good shirt day
 
-<img src="http://fuzzymonk.com/photos/cache/beach_week_2009/IMG_2070.JPG_595.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/cache/beach_week_2009/IMG_2070.JPG_595.jpg" class="photo" />
 Busted!

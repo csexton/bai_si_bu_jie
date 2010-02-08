@@ -15,7 +15,7 @@ Our adventures (and the less than normal night’s sleep) had tuckered out the l
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_2519.JPG">
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_2519.JPG">
 
 
 
@@ -23,7 +23,7 @@ Due South was great.  The food was awesome and Leah rocked out to bluegrass.  Th
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_2521.JPG">
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_2521.JPG">
 
 
 
@@ -31,7 +31,7 @@ From there we headed to the main event – Blacksburg.  Kelly was getting nervou
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_2584.JPG">
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_2584.JPG">
 
 
 
@@ -39,7 +39,7 @@ Kelly has wanted to get Leah a cheerleader outfit all summer so she made a beeli
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_2579.JPG">
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_2579.JPG">
 
 
 
@@ -67,7 +67,7 @@ As we were headed into campus to make our way back to main street Kelly and I de
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_2615.JPG">
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_2615.JPG">
 
 
 

@@ -15,6 +15,6 @@ Now Kelly is all giddy with visions of little dresses and pigtails.
 
 And now, baby's first pictures:
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/LeahSonogram01.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/LeahSonogram01.jpg" class="picture" />
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/LeahSonogram02.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/LeahSonogram02.jpg" class="picture" />

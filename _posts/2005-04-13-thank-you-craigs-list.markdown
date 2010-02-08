@@ -5,7 +5,7 @@ layout: post
 ---
 Thank you craigs list:
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_0365.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_0365.jpg" />
 
 
 

@@ -5,7 +5,7 @@ layout: post
 ---
 I spent most of last week in Austin with work, then we headed out to San Diego for an entire day before getting home just in time for my birthday.  My ladies and I had a nice birthday weekend, very low key.  We spent a lot of the weekend hanging out in the basement near a nice fire.  Smores and foof chairs for everyone.  Kelly got Leah and I matching Virginia Tech hoodies--the best birthday presents ever.
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8482.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8482.jpg" class="picture" />
 
 Things at work have seemed to calm down.  That's mostly because our "partner" has decided to not actually do anything at all, so we can just do it.  Sad thing is it reduces the amount of work we have to do.  Thus the reason for the quote marks around partner.
 

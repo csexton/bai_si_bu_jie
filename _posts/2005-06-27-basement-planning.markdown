@@ -15,4 +15,4 @@ The fun part is we are going to relocate the bar.  The new location was mostly d
 
 I did a sweet little 3/4 iso drawing of the new bar, but the floor plan will have to do until I can scan it in.
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/basementlayout-791871.gif" align="left" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/basementlayout-791871.gif" align="left" />

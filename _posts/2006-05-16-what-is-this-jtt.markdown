@@ -43,16 +43,16 @@ Yesterday the nursery became less of a room.  The glory of the orange and maroon
 
 
 
-<a href="http://fuzzymonk.com/photos/wushu/2006jtt/">
+<a href="http://photos.fuzzymonk.com/wushu/2006jtt/">
 
-<img src="http://fuzzymonk.com/photos/wushu/2006jtt/image/595/IMG_3702.jpg" class="picture">
-
-
-
-<img src="http://fuzzymonk.com/photos/wushu/2006jtt/image/595/IMG_3816.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/wushu/2006jtt/image/595/IMG_3702.jpg" class="picture">
 
 
 
-<img src="http://fuzzymonk.com/photos/wushu/2006jtt/image/595/IMG_3845.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/wushu/2006jtt/image/595/IMG_3816.jpg" class="picture">
+
+
+
+<img src="http://photos.fuzzymonk.com/wushu/2006jtt/image/595/IMG_3845.jpg" class="picture">
 
 </a>

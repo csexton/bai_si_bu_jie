@@ -7,4 +7,4 @@ This tragedy really hits closer to home than I would have expected.  Kelly and I
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/VT33Ribbon.png" align="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/VT33Ribbon.png" align="center" />

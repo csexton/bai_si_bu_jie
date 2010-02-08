@@ -15,6 +15,6 @@ Currently wushu is all two man set for me.  I just need to get the choreography 
 
 Blacksburg this weekend.  Not real good timing, I get my HD Tivo on Friday and then we gots to jump in the car and get out of there.  That is just mean.  But Souvlaki's and Sharky's and Hokie house are so, so nice.  I can't wait to go be on campus again.  Ross Gore was a smart man, screw this working world, go back to school 6 more years.  He might be short, but you gotta admit that was a smart move.
 
-<img src="http://fuzzymonk.com/photos/destruction_at_truxion/image/595/IMG_1048.jpg" />
+<img src="http://photos.fuzzymonk.com/destruction_at_truxion/image/595/IMG_1048.jpg" />
 
 Basement progress: Phase 1 complete.  Need baseboards and cabinets for the bar. I am thinking about working on that during my down time between jobs.  Maybe.  If we can afford it.

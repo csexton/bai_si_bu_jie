@@ -18,6 +18,6 @@ We met Marc at the Beijing airport.  We got in line for a cab.  They got in and 
 
 The hotel at Shichahai was n-i-c-e.  Everything around it was so new and different.  Hohai, the area next to the school, was now this hot new bar scene. None of that was there before.  Of course when Stephon and I tried to go get dinner I wanted to go to this little restaurant that I liked so much from last time.  But it was gone.  Replaced with some scary meat pie something.  We didn't go in.  We wandered for a wile and tried this place across the street from KFC where we got jaiozi and tang su li ji.  Stephon didn't like the tangsu li ji.  I did.  Sweet and tangy, and deep fried to happiness.
 
-After eating we went back and crashed. [Boom](http://fuzzymonk.com/photos/wushu/2005worlds)
+After eating we went back and crashed. [Boom](http://photos.fuzzymonk.com/wushu/2005worlds)
 
 

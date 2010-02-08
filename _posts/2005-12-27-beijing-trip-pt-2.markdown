@@ -11,7 +11,7 @@ After struggling to get a cab we rolled up and hopped out across the street from
 
 
 
-We found us some self guided audio tours, as read by Rodger Moore (yeah 007!) and paid our entry fee.  The audio tour was probably the best 45 kuai we spent the entire time there.  We wondered around, discovering all sorts of coolness.  Including <a href="http://fuzzymonk.com/photos/wushu/2005worlds/IMG_1509.jpg.html">proof</a> that at least one Emperor was a UMD fan.
+We found us some self guided audio tours, as read by Rodger Moore (yeah 007!) and paid our entry fee.  The audio tour was probably the best 45 kuai we spent the entire time there.  We wondered around, discovering all sorts of coolness.  Including <a href="http://photos.fuzzymonk.com/wushu/2005worlds/IMG_1509.jpg.html">proof</a> that at least one Emperor was a UMD fan.
 
 
 

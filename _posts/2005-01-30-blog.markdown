@@ -11,4 +11,4 @@ Snow! Snowman!
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/kellysnowman.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/kellysnowman.jpg" />

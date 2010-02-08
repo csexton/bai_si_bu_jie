@@ -3,7 +3,7 @@ title: Still got a baby.
 tags:
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_6267.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_6267.JPG" class="picture" />
 
 Kelly and I have been enjoying our adventures in sleep deprived parenthood.  Kelly decided Monday night that I was running on a few too little hours that she put me to bed at 10 and didn't wake me up till 6.  I don't know if my math is accurate, but that is nearly 8 hours.  Needless to say I felt pretty great all of yesterday.  I felt a bit guilty about having her shift run all night long, but she seemed to be doing pretty well.  Last night we were back to our normal rotation: Kelly sleeps form 10 to 2, I get 2 till morning.  Where morning is either when I have to leave for work or help with the baby, whichever comes first.  Again, luckily the company is nice enough to give me really flexible hours so when I stroll in at 11 they don't bat an eye.  Not something I want to sustain, but it sure is useful with munchkin-pant's sleeping schedule.
 
@@ -13,6 +13,6 @@ Bit of unsolicited advice: When your baby needs to be pacified and you have no p
 
 Everyone at wushu is going off to junior worlds, so I am gonna be running a few classes there.  I don't think Kelly is exactly thrilled at the idea of me spending 4 hours MIA a few times next week.  Luckily I will have the flexibility to defer to some of the other coaches if she needs me at home.
 
-<img src="http://fuzzymonk.com/photos/cats/image/595/IMG_6165.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/cats/image/595/IMG_6165.JPG" class="picture" />
 
 (Photo credit: Kelly -- good job wife!)

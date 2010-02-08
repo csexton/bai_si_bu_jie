@@ -36,7 +36,7 @@ If anyone talks to Kelly make sure to go with the latter.
 
 With that done, it was about 5 AM, and I then had to make the rounds to make sure there were no more bats, or racoons (don't ask) in the house. I also wanted to make sure the kids were not vampires yet.
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_1110.JPG" class="photo" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_1110.JPG" class="photo" />
 **Roy mid flight**
 
 

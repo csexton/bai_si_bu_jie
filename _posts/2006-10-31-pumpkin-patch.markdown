@@ -7,7 +7,7 @@ We took little miss Leah out to visit her very first pumpkin patch.  Burke nurse
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_7792.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_7792.JPG" class="picture" />
 
 (Shortly after this was taken, she did her stiff as a board trick and moved the pumpkin just enough so that she could topple over.  She cried.  Some lady gave me a dirty look.)
 

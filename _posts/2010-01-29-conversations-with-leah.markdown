@@ -49,4 +49,4 @@ _\*turns up radio\*_
 
 
 
-<img src="http://fuzzymonk.com/photos/cache/winter_2009/IMG_3527.JPG_595.jpg" class='photo' />
+<img src="http://photos.fuzzymonk.com/cache/winter_2009/IMG_3527.JPG_595.jpg" class='photo' />

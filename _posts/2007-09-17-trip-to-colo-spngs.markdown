@@ -5,7 +5,7 @@ layout: post
 ---
 This was Leah's second plane trip, and last time we bought her a seat and her grandma came along to help out. Unfortunately we didn't luck out enough to get a row to ourselves, and had to share space with some poor unsuspecting traveler. The flight out she never really cried, but was a little fussy and very fidgety the entire trip.  The way back she was very sleepy and cranky, but after a tour standing up at the front of coach dad was able to trick her into sleeping. Despite the evil glares from a business man (who had an empty seat next to him). And Kelly and I (and the poor lady in our row) had a couple hours of still and quite. 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_2811.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_2811.JPG" />
 
 
 
@@ -13,7 +13,7 @@ When we landed early in Denver, early enough that jeannie had not even left the 
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_2879.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_2879.JPG" />
 
 
 
@@ -29,7 +29,7 @@ We didn't say at their house the entire time, though I would have been happy to 
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_3007.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_3007.JPG" />
 
 
 
@@ -37,7 +37,7 @@ First one was the Air Force Academy.  Which is across the street from their plac
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_3069.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_3069.JPG" />
 
 
 
@@ -45,4 +45,4 @@ The highlight of our excursions had to be the Zoo. We went to the Cheyenne Mount
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/blog/image/595/IMG_3123.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/blog/image/595/IMG_3123.JPG" />

@@ -3,7 +3,7 @@ title: It's a girl!
 tags:
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/leah/image/595/Leah.jpg" >
+<img src="http://photos.fuzzymonk.com/leah/image/595/Leah.jpg" >
 
 Leah Marie Sexton is here!
 
@@ -25,12 +25,12 @@ I had no idea how trivial my daughter would make the rest of my life seem.  I ha
 
 Agh, I am scatter brained enough right now, I am gonna go and leave you with a few pictures.  Because this proud dad likes to show off his beautiful little girl.
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_4337.JPG" class="picture">
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_4337.JPG" class="picture">
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_4318.JPG" class="picture">
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_4318.JPG" class="picture">
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_4434.JPG" class="picture">
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_4434.JPG" class="picture">
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_4465.JPG" class="picture">
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_4465.JPG" class="picture">
 
-(<a href="http://fuzzymonk.com/photos/leah/">click</a> for more)
+(<a href="http://photos.fuzzymonk.com/leah/">click</a> for more)

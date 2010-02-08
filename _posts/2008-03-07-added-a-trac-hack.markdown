@@ -3,7 +3,7 @@ title: Added a Trac-Hack
 tags: tech
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/blog/image/595/RistoInk1-766603.png" border="0" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/RistoInk1-766603.png" border="0" class="picture" />
 
 
 

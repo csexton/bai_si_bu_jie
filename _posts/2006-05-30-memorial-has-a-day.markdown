@@ -35,6 +35,6 @@ Oh, don't worry we had the obligatory grillin' yesterday.  It's true, you are co
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/Room01.jpeg" class="picture">
+<img src="http://photos.fuzzymonk.com/leah/image/595/Room01.jpeg" class="picture">
 
 Taylor and McLaurin.  Can you guess who is who?

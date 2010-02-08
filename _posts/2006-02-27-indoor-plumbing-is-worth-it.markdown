@@ -27,13 +27,13 @@ Sunday was two trips to home depot, plumbing and the pretty details of the count
 
 Before:
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/truxion08.jpeg" class="picture">
+<img src="http://photos.fuzzymonk.com/blog/image/595/truxion08.jpeg" class="picture">
 
 
 
 After:
 
-<img src="http://fuzzymonk.com/photos/destruction_at_truxion/image/595/IMG_2130.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/destruction_at_truxion/image/595/IMG_2130.jpg" class="picture">
 
 
 
@@ -43,11 +43,11 @@ The other notable event of the weekend (a.k.a. the time I wasn't being bossed ar
 
 
 
-<img src="http://fuzzymonk.com/photos/friends/Luke1stBday/image/595/IMG_2056.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/friends/Luke1stBday/image/595/IMG_2056.jpg" class="picture">
 
 
 
-<img src="http://fuzzymonk.com/photos/friends/Luke1stBday/image/595/IMG_2109.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/friends/Luke1stBday/image/595/IMG_2109.jpg" class="picture">
 
 
 

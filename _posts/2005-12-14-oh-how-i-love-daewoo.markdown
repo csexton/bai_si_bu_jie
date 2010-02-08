@@ -23,6 +23,6 @@ Most of all I want to see my wife.  Where is my wife? WIFE! C'MERE!!!
 
 
 
-(<a href="http://fuzzymonk.com/photos/wushu/">pics</a>, more to come)
+(<a href="http://photos.fuzzymonk.com/wushu/">pics</a>, more to come)
 
 

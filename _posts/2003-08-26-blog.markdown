@@ -3,7 +3,7 @@ title:
 tags:
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/blog/image/595/canongl2.gif" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/canongl2.gif" />
 
 Yay I got my camera!  A brand spanking new GL-2!  Excited to no end.  Now I must go film!
 

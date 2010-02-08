@@ -7,7 +7,7 @@ I was trying to complete some of the mandentory online training required by my c
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/CBT-Windows-Error.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/CBT-Windows-Error.jpg" class="picture" />
 
 
 

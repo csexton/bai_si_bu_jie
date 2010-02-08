@@ -3,7 +3,7 @@ title: Kittens!
 tags:
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/blog/image/595/kittens.jpg" align="left"/>
+<img src="http://photos.fuzzymonk.com/blog/image/595/kittens.jpg" align="left"/>
 
 \*\*Kittens!\*\*
 

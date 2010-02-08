@@ -11,7 +11,7 @@ The rain is cold and depressing, but it is helping the lawn grow strong.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/yard_before.jpg" class="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/yard_before.jpg" class="center" />
 
 
 
@@ -23,7 +23,7 @@ The pre-landscape yard
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/yard_during3.jpg" class="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/yard_during3.jpg" class="center" />
 
 
 
@@ -35,7 +35,7 @@ Tearing up the yard, with ninja weapons.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/yard_during2.jpg" class="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/yard_during2.jpg" class="center" />
 
 
 
@@ -47,7 +47,7 @@ Puting all the dead flox into ninja trash bags
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/yard_during1.jpg" class="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/yard_during1.jpg" class="center" />
 
 
 
@@ -59,7 +59,7 @@ The scorched barren earth free of Flox, Salamanders, Spiders, Crickets and cute 
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/yard_kittens.jpg" class="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/yard_kittens.jpg" class="center" />
 
 
 
@@ -71,7 +71,7 @@ They may be ninja kittens, but they are young and imature in the ways of stealth
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/yard_after.jpg" class="center" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/yard_after.jpg" class="center" />
 
 
 

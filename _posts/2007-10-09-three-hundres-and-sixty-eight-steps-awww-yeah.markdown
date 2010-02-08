@@ -3,7 +3,7 @@ title: Three hundres and sixty eight steps, awww yeah.
 tags: Italy
 layout: post
 ---
-<img class="picture" src="http://fuzzymonk.com/photos/italy_2007/image/595/Italy+2007+131.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/italy_2007/image/595/Italy+2007+131.JPG" />
 
 
 
@@ -11,7 +11,7 @@ Now that we are home and I can look back on the trip, Cinque Terre was probably 
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/italy_2007/image/595/Italy+2007+083.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/italy_2007/image/595/Italy+2007+083.JPG" />
 
 
 
@@ -19,7 +19,7 @@ We didn't waste much time there, though we probably should have, but we set out 
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/italy_2007/image/595/Italy+2007+149.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/italy_2007/image/595/Italy+2007+149.JPG" />
 
 
 
@@ -35,7 +35,7 @@ When we did get to Vernazza we were able to find a little pizzeria with an unobs
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/italy_2007/image/595/Italy+2007+156.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/italy_2007/image/595/Italy+2007+156.JPG" />
 
 
 
@@ -43,7 +43,7 @@ Corniglia was not as much fun as Vernazza, that was mostly due to two little rea
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/italy_2007/image/595/Italy+2007+183.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/italy_2007/image/595/Italy+2007+183.JPG" />
 
 
 

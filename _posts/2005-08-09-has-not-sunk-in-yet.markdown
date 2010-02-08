@@ -19,15 +19,15 @@ I am at a loss for for words.  So I put a few pictures up in the gallery.
 
 
 
-<img src="http://fuzzymonk.com/photos/destruction_at_truxion/image/595/IMG_0865.jpg"> 
+<img src="http://photos.fuzzymonk.com/destruction_at_truxion/image/595/IMG_0865.jpg"> 
 
 
 
-<img src="http://fuzzymonk.com/photos/destruction_at_truxion/image/595/IMG_0904.jpg"> 
+<img src="http://photos.fuzzymonk.com/destruction_at_truxion/image/595/IMG_0904.jpg"> 
 
 
 
-<img src="http://fuzzymonk.com/photos/destruction_at_truxion/image/595/IMG_0901.jpg">
+<img src="http://photos.fuzzymonk.com/destruction_at_truxion/image/595/IMG_0901.jpg">
 
 
 

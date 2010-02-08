@@ -9,6 +9,6 @@ Tony Jaa was in DC yesterday -- a mere two blocks from my office.  He did a litt
 
 
 
-<img src="http://fuzzymonk.com/photos/wushu/image/595/DSC01268.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/wushu/image/595/DSC01268.JPG" class="picture" />
 
 Mad props to Dennis for the picture.

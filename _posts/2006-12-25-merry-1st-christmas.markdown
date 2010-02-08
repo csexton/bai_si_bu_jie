@@ -7,25 +7,25 @@ Leah's first Christmas--fun for all!
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8880.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8880.jpg" class="picture" />
 
 Rawr--I'm a present!
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8870.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8870.jpg" class="picture" />
 
 I hope it is toys.
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8705.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8705.jpg" class="picture" />
 
 Opening presents is hard work, makes you a little sleepy.
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8587-1.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8587-1.jpg" class="picture" />
 
 The fam.
 

@@ -19,12 +19,12 @@ Oh, that silly girl:
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_5911.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_5911.JPG" class="picture" />
 
 Pretty dress on a pretty day
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_5907.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_5907.JPG" class="picture" />
 
 Cookin' in the kitchen

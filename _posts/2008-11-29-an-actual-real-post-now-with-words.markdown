@@ -23,7 +23,7 @@ Kelly seems like she is finally recovering from her super cold, which completely
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_8226.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_8226.JPG" class="picture" />
 
 
 
@@ -39,12 +39,12 @@ Added bonus: seems mortgage rates are improving.  If we can actually sell our pl
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_8254.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_8254.JPG" class="picture" />
 
 Grandpa is a funny guy!
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_8176.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_8176.JPG" class="picture" />
 
 Ooh rah!

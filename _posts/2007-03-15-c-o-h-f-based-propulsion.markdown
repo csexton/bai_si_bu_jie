@@ -3,13 +3,13 @@ title: C-O-H-F Based Propulsion
 tags: work, leah
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_0255.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_0255.jpg" class="picture" />
 
 I came home tonight and found this on the fridge.  
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_0221.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_0221.jpg" class="picture" />
 
 Swingin' on some swings!
 
@@ -17,7 +17,7 @@ Swingin' on some swings!
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_0253.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_0253.jpg" class="picture" />
 
 We Built a fort at work.  It was not appreciated.  Drat monkeys.
 

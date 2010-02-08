@@ -13,30 +13,30 @@ Since I last posted we have been to Texas to visit great grandparents and have s
 
 
 
-<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9645.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/leah/image/595/IMG_9645.JPG" />
 
 Catching Snowflakes
 
-<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9402.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/leah/image/595/IMG_9402.JPG" />
 
 Reading Books
 
-<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9375.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/leah/image/595/IMG_9375.JPG" />
 
 Breaking out of the baby cage
 
-<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9215.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/leah/image/595/IMG_9215.JPG" />
 
 Breakin' stuff
 
-<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9592.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/leah/image/595/IMG_9592.JPG" />
 
 Playing with Unky Neal and a Penguin
 
-<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9737.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/leah/image/595/IMG_9737.JPG" />
 
 Great Grandpa Jim has something on his face.
 
-<img class="picture" src="http://fuzzymonk.com/photos/leah/image/595/IMG_9851.JPG" />
+<img class="picture" src="http://photos.fuzzymonk.com/leah/image/595/IMG_9851.JPG" />
 
 Aunt Claudia and the baby with one sock

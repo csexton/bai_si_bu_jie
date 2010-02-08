@@ -5,7 +5,7 @@ layout: post
 ---
 We just went down so that my family could see Leah.  Laura hadn't been able to come up with Amiee so it was nice that she could meet her.  We plan on being down in Richmond every other week for a while.  There was this past weekend, in two weeks is my ten year class reunion, and two weeks after that is when Laura is scheduled to deliver Joel.  That next trip is key if I am going to get her to change the baby's name to Job.
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_6033.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_6033.JPG" class="picture" />
 
 I spent some quality time on Saturday outside by the trampoline.  Jacob was showing me his front flips and working on back drops.  Joshua didn't like it when we bounced him to high, but I made sure he had plenty of time to play too.  Honestly I think he had more fun digging in the leaves and attacking Jacob with giant sticks while he tried to jump.  Later I took Jacob out and we worked on some wushu moves.  I taught him stomp down, front snap kick and wheeling arms (aka the hard one).  He did surprisingly well, but I still think he should take gymnastics--he was landing front flips on his feet.  Of course once his feet hit the mat they were quickly followed by a butt, then shoulders, then head.  But his control was impressive, especially when I told him to go up before he flips and he did. That's hard to do, especially when you are first learning.
 
@@ -15,4 +15,4 @@ Sunday we had dinner at Grandma's.  And before dinner was pool time.  Kelly and 
 
 I leave you with a picture of a baby on a cat:
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_6152.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_6152.JPG" class="picture" />

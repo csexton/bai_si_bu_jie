@@ -11,18 +11,18 @@ That was until I looked at pictures of the baby.
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8037.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8037.jpg" class="picture" />
 
 Go Terps!
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8071.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8071.jpg" class="picture" />
 
 Mom and Grandma make Leah happy. It's true.
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_8059.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_8059.jpg" class="picture" />
 
 I heart daddy!

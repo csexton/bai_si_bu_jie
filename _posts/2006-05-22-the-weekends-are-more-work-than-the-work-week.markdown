@@ -27,11 +27,11 @@ And now...pictures of my cats! Why do I take so many pictures of my cats?
 
 
 
-<img src="http://fuzzymonk.com/photos/cats/image/595/IMG_3961.JPG" class="picture">
+<img src="http://photos.fuzzymonk.com/cats/image/595/IMG_3961.JPG" class="picture">
 
 
 
-<img src="http://fuzzymonk.com/photos/cats/image/595/IMG_3991.JPG" class="picture">
+<img src="http://photos.fuzzymonk.com/cats/image/595/IMG_3991.JPG" class="picture">
 
 
 

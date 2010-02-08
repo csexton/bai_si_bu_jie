@@ -3,7 +3,7 @@ title: Leah meets the big guy
 tags: 
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/leah/image/595/LeahAndSanta.jpg" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/LeahAndSanta.jpg" class="picture" />
 
 
 

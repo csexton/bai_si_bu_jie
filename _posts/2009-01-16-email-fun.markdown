@@ -7,4 +7,4 @@ A little email exchange I had yesterday:
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/email_fun.jpg" class="photo" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/email_fun.jpg" class="photo" />

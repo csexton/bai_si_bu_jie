@@ -5,7 +5,7 @@ layout: post
 ---
 What happens when you have 4 engineers gather for a tasty dinner? 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_5616.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_5616.JPG" class="picture" />
 
 Pyrotechnics on a micro level.
 

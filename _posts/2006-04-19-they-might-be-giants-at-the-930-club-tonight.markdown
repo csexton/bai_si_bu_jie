@@ -21,4 +21,4 @@ In closing I will leave you with a picture of our lake.  I went with Kelly on on
 
 
 
-<img src="http://fuzzymonk.com/photos/good/image/595/LakeBraddockClouds.jpg" class="picture">
+<img src="http://photos.fuzzymonk.com/good/image/595/LakeBraddockClouds.jpg" class="picture">

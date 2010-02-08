@@ -15,4 +15,4 @@ Toronto is an interesting city.  Proof:
 
 
 
-<img src="http://fuzzymonk.com/photos/wushu/2006PanAms/image/595/2006PAWC-Jason-Naked.gif" class="picture" />
+<img src="http://photos.fuzzymonk.com/wushu/2006PanAms/image/595/2006PAWC-Jason-Naked.gif" class="picture" />

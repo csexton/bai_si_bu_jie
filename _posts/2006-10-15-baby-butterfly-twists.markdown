@@ -15,7 +15,7 @@ Leah has mastered rolling.  She can now do complete 360s.  I like to think of th
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_7538.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_7538.JPG" class="picture" />
 
 _Sleeping in her bumbo_
 
@@ -25,7 +25,7 @@ Last night we had a bit of baby drama.  We were up til 5 am because Kelly had to
 
 
 
-<img src="http://fuzzymonk.com/photos/leah/image/595/IMG_7497.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah/image/595/IMG_7497.JPG" class="picture" />
 
 _Bla! Cat hair!_
 

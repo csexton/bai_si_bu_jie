@@ -11,25 +11,25 @@ Speaking of which, she is doing well.  Had this kid around for a while and she s
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_6882.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_6882.JPG" class="picture" />
 
 Our very first bath, and it is a sad one.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_6896.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_6896.JPG" class="picture" />
 
 Having snacks with big sis.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_6927.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_6927.JPG" class="picture" />
 
 Sleeping hard on mom.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_6928.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_6928.JPG" class="picture" />
 
 Zonk.
 

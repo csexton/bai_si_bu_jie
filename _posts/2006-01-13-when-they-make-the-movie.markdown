@@ -7,7 +7,7 @@ for the 8th WWC now we know who will play who.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/usteamface.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/usteamface.jpg" />
 
 
 

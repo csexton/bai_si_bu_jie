@@ -8,11 +8,11 @@ We got quite the snow storm here. I am not sure what the official snowfall is, b
 
 Made a snow house with snow chairs, including a daddy sized one that mommy squished into a snow shea's lounge. I also discovered that Leah loves to get people to make snowballs for her, but as soon as you do you get hit by said snowball.
 
-<img src="http://fuzzymonk.com/photos/leah_and_lars/image/595/IMG_2968.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah_and_lars/image/595/IMG_2968.JPG" class="picture" />
 much happier.
 
-<img src="http://fuzzymonk.com/photos/leah_and_lars/image/595/IMG_2950.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah_and_lars/image/595/IMG_2950.JPG" class="picture" />
 What are you doing to me, dad?
 
-<img src="http://fuzzymonk.com/photos/leah_and_lars/image/595/IMG_2953.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/leah_and_lars/image/595/IMG_2953.JPG" class="picture" />
 Not something \*I\* want to clear off.

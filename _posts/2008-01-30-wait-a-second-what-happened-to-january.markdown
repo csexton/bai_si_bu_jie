@@ -19,4 +19,4 @@ I cannot believe how surprised I am every time she shows her abstract abilities.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/IMG_5402.JPG" class="picture" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/IMG_5402.JPG" class="picture" />

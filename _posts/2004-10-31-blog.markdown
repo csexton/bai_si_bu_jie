@@ -7,7 +7,7 @@ layout: post
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/leftleg000.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/leftleg000.jpg" />
 
 
 
@@ -15,7 +15,7 @@ layout: post
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/leftleg04.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/leftleg04.jpg" />
 
 
 
@@ -23,7 +23,7 @@ Alright. Let me just push play on my "sweat shirt" here.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/leftleg01.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/leftleg01.jpg" />
 
 
 
@@ -31,7 +31,7 @@ Oh... Some animal died.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/leftleg02.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/leftleg02.jpg" />
 
 
 
@@ -39,7 +39,7 @@ I know. Shut up.
 
 
 
-<img src="http://fuzzymonk.com/photos/blog/image/595/leftleg03.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/leftleg03.jpg" />
 
 
 

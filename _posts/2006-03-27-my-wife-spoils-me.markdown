@@ -3,7 +3,7 @@ title: My wife spoils me
 tags: 
 layout: post
 ---
-<img src="http://fuzzymonk.com/photos/blog/image/595/NewComputer.jpg" />
+<img src="http://photos.fuzzymonk.com/blog/image/595/NewComputer.jpg" />
 
 
 
