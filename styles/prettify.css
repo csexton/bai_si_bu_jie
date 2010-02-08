@@ -1,0 +1,27 @@
+/* Pretty printing styles. Used with prettify.js. */
+/* Modifying to match RistoInk, with thanks to VibrantIn */
+.str { color: #66FF00; }
+.kwd { color: #AAAAAA; }
+.com { color: #AA66FF; }
+.typ { color: #DDE93D; }
+.lit { color: #339999; }
+.pun { color: #AAAAAA; }
+.pln { color: #FFFFFF; }
+.tag { color: #AAFFFF; }
+.atn { color: #FF6600; }
+.atv { color: #66FF00; }
+.dec { color: #FF6600; }
+pre.code { padding: 0 1em 1em 1em; margin: 0; border: 1px solid #888; background-color: #000000;}
+
+@media print {
+	.str { color: #060; }
+	.kwd { color: #006; font-weight: bold; }
+	.com { color: #600; font-style: italic; }
+	.typ { color: #404; font-weight: bold; }
+	.lit { color: #044; }
+	.pun { color: #440; }
+	.pln { color: #000; }
+	.tag { color: #006; font-weight: bold; }
+	.atn { color: #404; }
+	.atv { color: #060; }
+}

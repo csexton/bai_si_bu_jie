@@ -1,0 +1,27 @@
+#custom-doc {width:61.31em;*width:59.83em;min-width:825px; margin:auto; text-align:left; }
+html {padding: 0; margin: 0; background-color: #392411; background: url('../images/Doodle-background.png'); }
+#hd {height: 172px; background: url('../images/Doodle-hd.png');}
+#hd-shadow {padding-right:28px; background-image: url("../images/Doodle-hd-shadow.png"); background-position: right; background-repeat: repeat-y;}
+#bd {background: url("../images/Doodle-bd.png"); background-color: #eedfc8; padding:1em;}
+#bd-shadow {padding-right:28px; background-image: url("../images/Doodle-bd-shadow.png"); background-position: right; background-repeat: repeat-y;}
+#ft {height:57px; background: url("../images/Doodle-ft.png");margin-bottom:3em;}
+#ft-shadow {padding-right:28px; background-image: url("../images/Doodle-ft-shadow.png"); background-position: right; background-repeat: repeat-y;}
+#copyright {font-weight: normal; vertical-align: bottom; color: #e8ddcb; text-align: center; background-image: url("../images/Doodle-flower.png"); background-repeat: no-repeat; background-position: right; height: 84px;}
+hr.nav {height: 9px; background-image: url("../images/Doodle-nav-rule.png"); border: none;}
+a.PostTitle{text-decoration: none; color:black;}
+#custom-doc { width:76.92em;*width:75.07em;min-width:900px; margin:auto; text-align:left; } 
+img.photo { border: thin solid black; }
+img.pic { border: thin solid black; }
+img.picture { border: thin solid black; }
+blockquote.code{font-size: small; background-color: #25170D; color: #EEDFC8; padding: 1em; border: solid black thin; overflow:scroll; width:400px;}
+pre{font-size: smaller; background-color: #392411; color: #EEDFC8; padding: 1em; border: solid black thin; overflow:auto; width:90%;}
+div.PostDate{font-style:italic;margin-top:-1em;}
+div.Post{margin-top:-3em;padding-bottom: 2em;}
+div#yui-main{margin-top:-4em;}
+h1{font-size:18pt;}
+td {border-style:none;}
+td.twitter-body {font-size:16px;}
+a.twitter-user {text-decoration: none;}
+.content {margin-top: 2em;}
+#delicious-links {margin-left:2em;}
+h1{margin: 1em 0px 0.5em 0px;}
