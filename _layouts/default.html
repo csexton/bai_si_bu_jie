@@ -1,10 +1,118 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
   <head>
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <link rel="openid.delegate" href="http://fuzzymonk.myopenid.com/" />
+    <link rel="openid2.local_id" href="http://fuzzymonk.myopenid.com" />
+    <link rel="openid2.provider" href="http://www.myopenid.com/server" />
+    <meta http-equiv="X-XRDS-Location" content="http://www.myopenid.com/xrds?username=fuzzymonk.myopenid.com" />
+
+    <!-- Meta Information -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Fuzzymonk</title>
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="generator" content="Jekyll" />
+    <link rel="alternate" type="application/atom+xml" title="Bai si bu jie" href="/atom.xml" />
+
+    <title>Fuzzymonk.com - {{ page.title }}</title>
+    <link rel="stylesheet" href="http://www.fuzzymonk.com/styles/reset-fonts-grids.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/styles/base-min.css">
+    <link rel="stylesheet" type="text/css" href="/styles/doodle.css">
+    <link rel="stylesheet" type="text/css" href="/styles/sh_ristoink.css">
+    <script type="text/javascript" src="/js/lang/sh_cpp.js"></script>
+    <script type="text/javascript" src="/js/lang/sh_css.js"></script>
+    <script type="text/javascript" src="/js/lang/sh_html.js"></script>
+    <script type="text/javascript" src="/js/lang/sh_javascript.js"></script>
+    <script type="text/javascript" src="/js/lang/sh_python.js"></script>
+    <script type="text/javascript" src="/js/lang/sh_ruby.js"></script>
+    <script type="text/javascript" src="/js/lang/sh_sh.js"></script>
+    <script type="text/javascript" src="/js/lang/sh_sql.js"></script>
+    <script type="text/javascript" src="/js/sh_main.js"></script>
   </head>
-  <body>
-   {{ content }}
+  <body onload="sh_highlightDocument();">
+    <div id="custom-doc" class="yui-t5">
+      <div id="hd-shadow"><div id="hd"><h1></h1></div></div>
+      <div id="bd-shadow"><div id="bd">
+          <div id="yui-main">
+            <div class="yui-b">
+              <div class="yui-g">
+                <div class="content">
+                  {{ content }}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="yui-b">
+            <div>
+              <h3>
+                Bǎi sī bù jiě<br />
+                100 contemplate no solve.
+              </h3>
+            </div>
+            <div>
+              <h3>Personal</h3>
+              <ul>
+                <li><a href="http://www.fuzzymonk.com/photos">Photo Album</a></li>
+                <li><a href="http://cookbook.fuzzymonk.com/">Tullos-Sexton Cookbook</a></li>
+                <li><a href="http://twitter.com/fuzzymonk">Follow me on Twitter</a></li>
+              </ul>
+              <h3>Projects</h3>
+              <ul>
+                <li><a href="http://codeography.com/">Codeography</a></li>
+                <li><a href="http://www.wushuwiki.org">WushuWiki</a></li>
+                <li><a href="http://www.fuzzymonk.com/pd/">Peking Duck Productions</a></li>
+                <li><a href="http://github.com/csexton/">Fork me on Github</a></li>
+                <li><a href="http://github.com/csexton/twitter_archive">Twitter Archive</a></li>
+                <li><a href="http://github.com/csexton/standup">Standup</a></li>
+              </ul>
+            </div>
+            <hr class="nav" />
+              <h3>Blog Archives</h3>
+            <div>
+              <a href="/archives.html">Archives</a>
+            </div>
+
+            <hr class="nav" />
+            <div>
+              <h3>Twitter</h3>
+              <div id="twitter_div">
+                <ul id="twitter_update_list"></ul>
+                <a href="http://twitter.com/fuzzymonk" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
+              </div>
+              <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+              <script type="text/javascript" src="http://twitter.com/statuses/user_timeline/fuzzymonk.json?callback=twitterCallback2&count=10"></script>
+            </div>
+            <hr class="nav" />
+            <div>
+              <h3>del.icio.us</h3>
+              <div id="delicious-links">
+                <script type="text/javascript" src="http://feeds.delicious.com/v2/js/fuzzymonk?title=&icon=m&count=5&sort=date&extended&name"></script>
+              </div>
+            </div>
+
+            <center>
+              <br><br>
+              <a href="http://feeds.feedburner.com/fuzzymonk" title="Subscribe to my feed"><img src="http://www.feedburner.com/fb/images/pub/flchklt.gif" border="0"/></a>
+              <br><br>
+            </center>
+
+            <img src="/images/Doodle-tree.png" />
+          </div>
+
+      </div></div>
+      <div id="ft-shadow"> <div id="ft"></div> </div>
+      <div id="copyright">(C) 2008 Christopher Sexton</div>
+    </div>
+
+               <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                </script>
+                <script type="text/javascript">
+                  try {
+                  var pageTracker = _gat._getTracker("UA-6090240-1");
+                  pageTracker._trackPageview();
+                  } catch(err) {}
+                </script>
   </body>
 </html>
+

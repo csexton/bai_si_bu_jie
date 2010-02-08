@@ -2,14 +2,28 @@
 layout: default
 title: Fuzzymonk.com
 ---
-hi
 {% for post in site.posts limit: 7 %}
-<div>
-  Post:
-  <a href="{{ post.url }}">{{ post.title }}</a>
-  <div>
-    <a href="{{ post.url }}">Comments</a>
+<div class='post'>
+  <h1 class='title'><a href='{{ post.url }}'>{{ post.title }}</a></h1>
+  <div class='byline'>{{ post.date | date:"%B %d, %Y" }}</div>
+  <div class='post-body'>
+    {% if hide_extended %}
+    {{ post.content }}
+    {% if post.extended.size > 0 %}
+    <p>Continue reading at <a href='{{ post.url }}'>{{ post.title }}</a>.</p>
+    {% endif %}
+    {% else %}
+    {{ post.content }}
+    {{ post.extended }}
+    {% endif %}
   </div>
+  <div class='comment'>
+    <span>
+      <a href='{{ post.url }}#disqus_thread'>View Comments</a>
+    </span>
+  </div>
+  <hr />
 </div>
+
 {% endfor %}
 
