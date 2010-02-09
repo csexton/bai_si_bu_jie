@@ -1,0 +1,10 @@
+The export of the old blogger posts
+
+archives contains all the posts from the archives, I beleive this has
+everything except for the 16 draft posts, which I am planning on moving by
+hand to the _posts directory. 
+
+If you ever want to merge these in you will want to find the ones that exist
+here but don't exist in the main _posts directory. You should know that there
+were multiple posts on some days and the dates may not line up, or could have
+been clobbered in my original attempt to export the blogger data.
