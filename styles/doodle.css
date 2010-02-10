@@ -1,3 +1,4 @@
+a {color: #25170D;}
 #custom-doc {width:61.31em;*width:59.83em;min-width:825px; margin:auto; text-align:left; }
 html {padding: 0; margin: 0; background-color: #392411; background: url('../images/Doodle-background.jpg'); }
 #hd {height: 172px; background: url('../images/Doodle-hd.png');}
@@ -13,7 +14,6 @@ a.PostTitle{text-decoration: none; color:black;}
 img.photo { border: thin solid black; }
 img.pic { border: thin solid black; }
 img.picture { border: thin solid black; }
-blockquote.code{font-size: small; background-color: #25170D; color: #EEDFC8; padding: 1em; border: solid black thin; overflow:scroll; width:400px;}
 pre{font-size: smaller; background-color: #392411; color: #EEDFC8; padding: 1em; border: solid black thin; overflow:auto; width:90%;}
 div.PostDate{font-style:italic;margin-top:-1em;}
 div.Post{margin-top:-3em;padding-bottom: 2em;}
@@ -25,3 +25,5 @@ a.twitter-user {text-decoration: none;}
 .content {margin-top: 2em;}
 #delicious-links {margin-left:2em;}
 h1{margin: 1em 0px 0.5em 0px;}
+.byline {margin: 0; color: #3D2710;}
+.title {margin: 0 0 0.5em 0; font-size: 30px;}
