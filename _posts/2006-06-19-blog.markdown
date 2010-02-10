@@ -1,14 +1,10 @@
 ---
 title: 百人看不懂
-tags: 
+tags:
 layout: post
 ---
 Best shirt ever:
 
-
-
-<a href="http://www.post-jdm.com/Contact.html"><img src="http://www.post-jdm.com/bairen.jpg"></a>
-
-
+<a href="http://www.post-jdm.com/"><img src="http://photos.fuzzymonk.com/albums/blog/bairen.jpg"></a>
 
 Well, best if you don't count <a href="http://www.cafepress.com/pdpwushu">these</a>.
