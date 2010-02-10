@@ -36,6 +36,6 @@ Hey dad, I will get that snow cookie for you
 <img src="http://photos.fuzzymonk.com/cache/snowmageddon/IMG_3591.JPG_595.jpg" class="picture" />
 Getting a little help with the snow.
 
-<img src="http://photos.fuzzymonk.com/snowmageddon/IMG_3598.JPG.html" class="picture" />
+<img src="http://photos.fuzzymonk.com/cache/snowmageddon/IMG_3598.JPG_595.jpg" class="picture" />
 Yeah, that's a lot of snow.
 
